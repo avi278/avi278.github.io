@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Iva Utíkalová</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@100;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="content">
+            <div id="header-content">
+                <h1>
+                    <span class="title title-word-1">Hi, </span><span class="title title-word-2">I am </span><a href="" class="title title-word-3">Iva Utíkalová.</a>
+                </h1>
+                <p>Welcome to my page about me.</p>
+                <div class="contacts">
+                    <span><i class="fas fa-phone-square-alt"></i>(+420) 731 849 021</span>
+                    <span class="mail"><i class="fas fa-envelope-square"></i><a href="mailto:xutika00@fit.vutbr.cz">xutika00@fit.vutbr.cz</a></span>
+                </div>
+            </div>
+        </div>
+    </header>
+    <nav>
+        <div><img src="img/person.png" alt=""></div>
+        <div id="menu-button">
+            <a class="" onclick="dropdown_menu(); return false;" href="#"><i class="fa fa-bars"></i></a>
+            <div>
+                <a class="active" href="#">Home</a>
+                <a class="" href="#about">About</a>
+                <a class="" href="#education">Education</a>
+                <div id="ex-button">
+                    <a class="" onclick="dropdown_ex(); return false;" href="#">Experience</a>
+                    <ul>
+                        <a href="#skills">Skills</a>
+                        <a href="#projects">Projects</a>
+                        <a href="#jobs">Jobs</a>
+                    </ul>
+                </div>
+                <a class="" href="#interests">Interests</a>
+                <a class="" href="#contact">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <article>
+    <section id="about" class="content">
+        <div id="about-content">
+            <h3>
+                ABOUT ME
+            </h3>
+            <p>Welcome to my page. My name is Iva Utíkalová, I am secretly a millionaire, but I am currently studying Faculty of Information Technology, VUT Brno for fun and because I am bored. Find out more about my amazing life below.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac lectus posuere felis vehicula rutrum vel eu ex. Quisque fringilla posuere augue at fringilla. Aliquam auctor tincidunt metus eu fermentum. Suspendisse felis enim, pellentesque eu tortor tincidunt, convallis dignissim massa. Ut pretium, dui id interdum viverra, odio dui vulputate lorem. </p>
+        </div>
+    </section>
+
+    <section id="education" class="content">
+            <h3>
+                EDUCATION
+            </h3>
+            <div id="education-content">
+            <div id="babak">
+                <h4>
+                    Primary school Jana Babáka, Brno
+                </h4>
+                <ul>
+                    <li><a href="https://www.zsbabak.cz/">Their Website</a></li>
+                    <li>Primary general education</li>
+                    <li>2007-2014</li>
+                </ul>
+                <div></div>
+            </div>
+
+            <div id="gvid">
+                <h4>
+                    Grammar school Vídeňská, Brno
+                </h4>
+                <ul>
+                    <li><a href="https://www.gvid.cz/">Their Website</a></li>
+                    <li>Programming educationn</li>
+                    <li>2014-2020</li>
+                </ul>
+                <div></div>
+            </div>
+
+            <div id="fit">
+                <h4>
+                    Faculty of Information Technology, VUT Brno
+                </h4>
+                <ul>
+                    <li><a href="https://www.fit.vut.cz/.en">Their Website</a></li>
+                    <li>IT education</li>
+                    <li>2020-presence</li>
+                </ul>
+
+                <div></div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="content">
+            <h3>
+                EXPERIENCE
+            </h3>
+            <div id="experience-content">
+                <div id="skillproj">
+                    <div id="skills">
+                        <h4>
+                            Skills - IT
+                        </h4>
+                        <span><i class="fab fa-github"></i></span>
+                        <span><i class="fab fa-js-square"></i></span>
+                        <span><i class="fab fa-linux"></i></span>
+                        <span><i class="fab fa-windows"></i></span>
+                        <span><i class="fab fa-apple"></i></span>
+                        <span><i class="fab fa-html5"></i></span>
+                        <span><i class="fab fa-css3"></i></span>
+                        <span><i class="fab fa-php"></i></span>
+                        <span><i class="fab fa-python"></i></span>
+                        <span><i class="fab fa-react"></i></span>
+                        <span><i class="fab fa-java"></i></span>
+                    </div>
+
+                    <div id="projects">
+                        <h4>
+                            Projects
+                        </h4>
+                        <div>
+                            <h5>
+                                Project for NASA
+                            </h5>
+                            <p>I did some calculations for NASA but it didn't go well (no one was hurt).</p>
+                        </div>
+                        <div>
+                            <h5>
+                                Project EXTRA
+                            </h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque viverra nisl laoreet aliquet rhoncus. Morbi.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="jobs">
+                    <h4>
+                        Jobs
+                    </h4>
+                    <div>
+                        <h5>
+                            Dmdox
+                        </h5>
+                        <span>2020-2022</span>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in ipsum aliquam, aliquam quam et, scelerisque risus. Fusce ultricies elit.</p>
+                    </div>
+                    <div>
+                        <h5>
+                            Secret agent
+                        </h5>
+                        <span>2022-presence</span>
+                        <p>Top secret so I can't talk much about it, but it is so cool that you wouldn't believe me. But please don't tell anyone.</p>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <section id="interests" class="content">
+        <div id="interests-content">
+            <h3>
+                INTERESTS
+            </h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris suscipit gravida odio, vitae facilisis tortor egestas at. Curabitur vel viverra lectus, nec interdum felis. Duis ut metus diam. Quisque egestas lectus quam, a posuere arcu blandit nec. Morbi erat magna. </p>
+            <div id="interests-img">
+                <img src="img/books.avif">
+                <img src="img/games.jpg">
+                <img src="img/nature.jpg">
+                <img src="img/sport.jpg">
+            </div>
+        </div>
+    </section>
+
+
+    <section id="contact" class="content">
+        <div id="contact-content">
+            <h3>
+                CONTACTS
+            </h3>
+            <div class="contacts">
+                <span><i class="fas fa-phone-square-alt"></i>(+420) 731 849 021</span>
+                <span class="mail"><i class="fas fa-envelope-square"></i><a href="mailto:xutika00@fit.vutbr.cz">xutika00@fit.vutbr.cz</a></span>
+                <span class="facebook"><a href="https://www.youtube.com/watch?v=LYwaBpL6njk"><i class="fab fa-facebook"></i></a></span>
+                <span class="instagram"><a href="https://www.youtube.com/watch?v=ssGknZaa23M"><i class="fab fa-instagram"></i></a></span>
+            </div>
+        </div>    
+        <div id="wave" class="wave-1"></div>
+        
+    </section>
+    <article>
+</body>

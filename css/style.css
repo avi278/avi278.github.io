@@ -1,0 +1,874 @@
+/*      FULL PAGE       */
+html {
+    scroll-behavior: smooth;
+    width: 100vw;
+}
+
+body {
+    background-color: white;
+    color: #46423c;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+body a:link{
+    text-decoration: none;
+}
+
+a {
+    color: #46423c;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.contacts span:hover, .contacts span a:hover {
+    color: #ff5100;
+}
+
+span > i {
+    padding-right: 3px;
+}
+
+h1, h1 a {
+    font-size: calc(1.5rem + 3vw);
+}
+
+.title-word-1 {
+    animation: color-animation 4s linear infinite;
+    animation-delay: 0s;
+
+}
+  
+.title-word-2 {
+    animation: color-animation 4s linear infinite;
+    animation-delay: -3s;
+}
+  
+.title-word-3 {
+    animation: color-animation 4s linear infinite;
+    animation-delay: -6s;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2,h3,h4 {
+    transition: transform 0.5s;
+
+}
+
+h2:hover, h3:hover, h4:hover {
+    transform: translateY(-10px);
+}
+
+
+
+
+
+/*      GENERAL NAVIGATION      */
+nav > div > img {
+    width: 40%;
+    border-radius: 50%;
+}
+
+nav > img:hover {
+    box-shadow: 0 0 2px 3px rgba(36, 44, 46, 0.5);
+}
+
+nav div{
+    display: block;
+    width: 100%;
+}
+
+
+
+
+/*      GENERAL HEADER      */
+header {
+    height: 100vh;
+    background-color: rgb(48, 46, 46);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: white;
+}
+
+header .content {
+    display: inherit;
+}
+
+#header-content {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#header-content a {
+    color: white;
+
+}
+
+#header-content a:hover {
+    color: #ff5100;
+
+}
+
+
+
+
+/*      GENERAL SECTIONS    */
+section {
+    height: fit-content;
+}
+
+section {
+    border: 1px solid #ccc;
+}
+
+
+
+
+/*      GENERAL EDUCATION       */
+#education-content {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+#education-content h4{
+    border-bottom: 1px solid #ff8e00;
+    padding-bottom: 3px
+}
+
+#babak, #gvid, #fit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 45vh;
+}
+
+#babak:hover div{
+    background-image: url(../img/babak.png);
+    background-repeat: no-repeat;
+    animation-name: background-babak;
+    position: relative;
+    animation-duration: 4s;
+    background-size: contain;
+    background-position: center bottom;
+
+
+}
+
+#gvid:hover div{
+    background-image: url(../img/gvid.jpg);
+    background-repeat: no-repeat;
+    animation-name: background-gvid;
+    position: relative;
+    animation-duration: 4s;
+    background-size: contain;
+    background-position: center bottom;
+
+}
+
+#fit:hover div{
+    background-image: url(../img/fit.png);
+    background-repeat: no-repeat;
+    animation-name: background-fit;
+    position: relative;
+    animation-duration: 4s;
+    background-size: contain;
+    background-position: center bottom;
+
+}
+
+
+
+
+/*      GENERAL EXPERIENCES     */
+#jobs div, #skills, #projects div {
+    border-bottom: dotted #ff8e00;
+}
+
+#skills {
+    padding-bottom: 20px;
+}
+
+
+
+/*      GENERAL INTERESTS       */
+#interests-img {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    gap: 10px;
+}
+
+#interests-img img{
+    width: 20%;
+    height: auto;
+    animation: img-animation 4s linear;
+}
+
+
+
+
+/*      GENERAL CONTACTS WAVE       */
+#contact.content {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    overflow-x: hidden;
+
+}
+
+#wave {
+    background-image: url(../img/wave.png);
+    background-repeat: repeat-x;
+    width: 200%;
+    animation: wave 10s -10s linear infinite;
+    transform: translate3d(0, 0, 0);
+    opacity: 0.8;
+    position: relative;
+    bottom: 0;
+}
+
+
+
+
+
+
+
+/*      ANIMATIONS      */
+
+@keyframes background-babak {
+    from   {background-image: url(../img/babak.png);     background-position: left bottom;}
+    to {background-image: url(../img/babak.png);     background-position: center bottom;}
+}
+
+@keyframes background-gvid {
+    from   {background-image: url(../img/gvid.jpg);     background-position: left bottom;}
+    to {background-image: url(../img/gvid.jpg);     background-position: center bottom;}
+}
+
+@keyframes background-fit {
+    from   {background-image: url(../img/fit.png);     background-position: left bottom;}
+    to {background-image: url(../img/fit.png);     background-position: center bottom;}
+}
+
+
+@keyframes img-animation {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 20%;
+    }
+}
+
+
+@keyframes color-animation {
+    0%    {color: #DF8453}
+    32%   {color: #3D8DAE}
+    33%   {color: #E4A9A8}
+    65%   {color: #DBAD4A}
+    66%   {color: #ACCFCB}
+    99%   {color: #17494D}
+    100%  {color: #ACCFCB}
+}
+
+
+@keyframes wave {
+    0% {transform: translateX(0);}
+    50% {transform: translateX(-25%);}
+    100% {transform: translateX(-50%);}
+}
+
+
+
+
+
+
+/*      RESPONSIVE DESIGN      */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    body {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 23px;
+    }
+
+    .content {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 80px;
+        padding-right: 80px;
+    
+    }
+
+
+    /*      NAVIGATION      */ 
+    nav {
+        height: fit-content; /* Full-height: remove this if you want "auto" height */
+        width: 100%; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        z-index: 1; /* Stay on top */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: #ff8e00; /* Black */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        align-content: flex-start;
+        justify-content: center;
+        font-size: max(2vw,20px);
+    }
+    
+
+    #menu-button {
+        justify-content: center;
+    }
+    
+    #menu-button > div {
+        display: none;
+    }
+
+    #menu-button > a {
+        display: flex;
+        justify-self: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    } 
+
+    #menu-button.show div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav div > div a {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+    
+    nav > div > div a:hover {
+        border-bottom: 2px solid black;
+        color: black;
+    }
+    
+    #ex-button ul{
+        display: none;
+    }
+    
+    #ex-button.show ul{
+        display: inherit;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }  
+
+
+    #babak div, #gvid div, #fit div {
+        height: 500px;
+    }
+
+
+    #experience-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #projects{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    #wave {
+        height: 60px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width: 768px){
+
+    body {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 23px;
+    }
+
+
+    .content {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 90px;
+        padding-right: 90px;
+    
+    }
+
+
+    /*      NAVIGATION      */ 
+    nav {
+        height: fit-content; /* Full-height: remove this if you want "auto" height */
+        width: 100%; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        z-index: 1; /* Stay on top */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: #ff8e00; /* Black */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        align-content: flex-start;
+        justify-content: center;
+        font-size: max(2vw,20px);
+    }
+    
+
+    #menu-button {
+        justify-content: center;
+    }
+    
+    #menu-button > div {
+        display: none;
+    }
+
+    #menu-button > a {
+        display: flex;
+        justify-self: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    } 
+
+    #menu-button.show div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav div > div a {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+    
+    nav > div > div a:hover {
+        border-bottom: 2px solid black;
+        color: black;
+    }
+    
+    #ex-button ul{
+        display: none;
+    }
+    
+    #ex-button.show ul{
+        display: inherit;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }  
+
+
+    #babak div, #gvid div, #fit div {
+        height: 500px;
+    }
+
+
+    #experience-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #projects{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #wave {
+        height: 70px;
+    }
+}
+ 
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 992px){
+
+    /*      PAGE        */
+    body {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+
+    article, header {
+        margin-left: 180px;
+    }
+
+    .content {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 100px;
+        padding-right: 100px;
+    
+    }
+
+
+
+    /*      NAVIGATION      */ 
+    nav {
+        height: 100%; /* Full-height: remove this if you want "auto" height */
+        width: 180px; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        z-index: 1; /* Stay on top */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: #ff8e00; /* Black */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        align-content: flex-start;
+        justify-content: center;
+        font-size: max(2vw,20px);
+    }
+    
+
+    #menu-button {
+        justify-content: center;
+    }
+    
+    #menu-button > div {
+        display: none;
+    }
+
+    #menu-button > a {
+        display: flex;
+        justify-self: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    } 
+
+
+
+    #menu-button.show div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav div > div a {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+
+    
+    nav > div > div a:hover {
+        border-bottom: 2px solid black;
+        color: black;
+    }
+    
+    #ex-button ul{
+        display: none;
+    }
+    
+    #ex-button.show ul{
+        display: inherit;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }   
+    
+
+
+    #babak div, #gvid div, #fit div {
+        height: 500px;
+    }
+
+
+    #experience-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #projects{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+
+    #wave {
+        height: 80px;
+    }
+}
+ 
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+    /*      PAGE        */
+    body {
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+
+    article, header {
+        margin-left: 200px;
+    }
+
+    .content {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        padding-left: 110px;
+        padding-right: 110px;
+    
+    }
+
+
+    /*      NAVIGATION      */ 
+    nav {
+        height: 100%; /* Full-height: remove this if you want "auto" height */
+        width: 200px; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        z-index: 1; /* Stay on top */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: #ff8e00; /* Black */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        align-content: flex-start;
+        justify-content: center;
+        font-size: max(2vw,20px);
+    }
+    
+
+    #menu-button {
+        justify-content: center;
+    }
+    
+    #menu-button > div {
+        display: none;
+    }
+
+    #menu-button > a {
+        display: flex;
+        justify-self: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    } 
+
+
+
+    #menu-button.show div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav div > div a {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+    
+    nav > div > div a:hover {
+        border-bottom: 2px solid black;
+        color: black;
+    }
+    
+    #ex-button ul{
+        display: none;
+    }
+    
+    #ex-button.show ul{
+        display: inherit;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+
+
+    #babak div, #gvid div, #fit div {
+        height: 500px;
+    }
+
+
+    #experience-content {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #projects{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    #wave {
+        height: 90px;
+    }
+
+}
+ 
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+    /*      PAGE        */
+    body {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 25px;
+    }
+
+    article, header {
+        margin-left: 280px;
+    }
+
+    .content {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        padding-left: 120px;
+        padding-right: 120px;
+    
+    }
+
+
+    /*      NAVIGATION      */ 
+    nav {
+        height: 100%; /* Full-height: remove this if you want "auto" height */
+        width: 280px; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        z-index: 1; /* Stay on top */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: #ff8e00; /* Black */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        align-content: center;
+        justify-content: center;
+        font-size: max(2vw,20px);
+    }
+    
+    nav div > a {
+        display: none;
+    } 
+
+    nav div > div a {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;    
+    }
+    
+    nav > div > div a:hover {
+        border-bottom: 2px solid black;
+        color: black;
+    }
+    
+    #ex-button ul{
+        display: none;
+    }
+    
+    #ex-button.show ul{
+        display: inherit;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+
+
+
+    #babak div, #gvid div, #fit div {
+        height: 500px;
+    }
+
+
+    #experience-content {
+        display: flex;
+        column-gap: 5%;
+        flex-direction: row;
+    }
+
+
+    #projects {
+        padding-top: 40px;
+    }
+
+
+    #wave {
+        height: 100px;
+    }
+} 
