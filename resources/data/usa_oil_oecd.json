@@ -1,0 +1,332 @@
+[
+    {
+        "Country": "USA",
+        "Value": 384233111.0,
+        "Partner": "AGO",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 11073668.0,
+        "Partner": "ARE",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 34401871.0,
+        "Partner": "ARG",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 4979247.0,
+        "Partner": "AUS",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 44571224.0,
+        "Partner": "AZE",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 652676.0,
+        "Partner": "BLZ",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 1487182.0,
+        "Partner": "BOL",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 157898346.0,
+        "Partner": "BRA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 3600.0,
+        "Partner": "BRB",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 11595248.0,
+        "Partner": "BRN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 101749251.0,
+        "Partner": "CAN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 681182.0,
+        "Partner": "CHL",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 8417781.0,
+        "Partner": "CHN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 1195644.0,
+        "Partner": "CIV",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 2661037.0,
+        "Partner": "CMR",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 784556.0,
+        "Partner": "COD",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 101574774.0,
+        "Partner": "COG",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 93844471.0,
+        "Partner": "COL",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 426265795.0,
+        "Partner": "DZA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 53330742.0,
+        "Partner": "DZA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 199089859.0,
+        "Partner": "ECU",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 746269.0,
+        "Partner": "EGY",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 53047846.0,
+        "Partner": "EGY",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 50604518.0,
+        "Partner": "GAB",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 56773746.0,
+        "Partner": "GNQ",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 5000008.0,
+        "Partner": "GNQ",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 6253952.0,
+        "Partner": "GTM",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 25405194.0,
+        "Partner": "IDN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 481793660.0,
+        "Partner": "IRQ",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 237.0,
+        "Partner": "ISR",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 885203.0,
+        "Partner": "JPN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 3997371.0,
+        "Partner": "KAZ",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 2200.0,
+        "Partner": "KOR",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 151455252.0,
+        "Partner": "KWT",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 91025213.0,
+        "Partner": "LBY",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 391182292.0,
+        "Partner": "MEX",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 2529666.0,
+        "Partner": "MYS",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 806878381.0,
+        "Partner": "NGA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 80000000.0,
+        "Partner": "NGA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 44159001.0,
+        "Partner": "NOR",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 531.0,
+        "Partner": "NOR",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 42441028.0,
+        "Partner": "OMN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 100.0,
+        "Partner": "PAK",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 7455066.0,
+        "Partner": "PER",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 15000000.0,
+        "Partner": "QAT",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 117462220.0,
+        "Partner": "RUS",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 1400349009.0,
+        "Partner": "SAU",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 93372975.0,
+        "Partner": "TCD",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 15831192.0,
+        "Partner": "THA",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 32757423.0,
+        "Partner": "TTO",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 204629755.0,
+        "Partner": "TTO",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 760398351.0,
+        "Partner": "VEN",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 33495926.0,
+        "Partner": "VNM",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 19550423.0,
+        "Partner": "YEM",
+        "Year": "2007"
+    },
+    {
+        "Country": "USA",
+        "Value": 4322893.0,
+        "Partner": "ZAF",
+        "Year": "2007"
+    }
+]

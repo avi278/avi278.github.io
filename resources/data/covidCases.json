@@ -1,0 +1,1465 @@
+[
+    {
+        "city": "Hlavní město Praha",
+        "data": [
+            {
+                "category": "sick",
+                "value": 394518
+            },
+            {
+                "category": "deceased",
+                "value": 2565
+            },
+            {
+                "category": "recovered",
+                "value": 0
+            }
+        ],
+        "lat": 50.0874654,
+        "long": 14.4212535
+    },
+    {
+        "city": "Praha-západ",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20421
+            },
+            {
+                "category": "deceased",
+                "value": 186
+            },
+            {
+                "category": "recovered",
+                "value": 20294
+            }
+        ],
+        "lat": 50.3619634,
+        "long": 12.9322651
+    },
+    {
+        "city": "Příbram",
+        "data": [
+            {
+                "category": "sick",
+                "value": 18250
+            },
+            {
+                "category": "deceased",
+                "value": 189
+            },
+            {
+                "category": "recovered",
+                "value": 17446
+            }
+        ],
+        "lat": 49.6901444,
+        "long": 14.0103663
+    },
+    {
+        "city": "Rakovník",
+        "data": [
+            {
+                "category": "sick",
+                "value": 8803
+            },
+            {
+                "category": "deceased",
+                "value": 174
+            },
+            {
+                "category": "recovered",
+                "value": 8245
+            }
+        ],
+        "lat": 50.10407415,
+        "long": 13.722328073788379
+    },
+    {
+        "city": "Benešov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 18023
+            },
+            {
+                "category": "deceased",
+                "value": 352
+            },
+            {
+                "category": "recovered",
+                "value": 17231
+            }
+        ],
+        "lat": 49.7818921,
+        "long": 14.6869121
+    },
+    {
+        "city": "Beroun",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14141
+            },
+            {
+                "category": "deceased",
+                "value": 154
+            },
+            {
+                "category": "recovered",
+                "value": 13441
+            }
+        ],
+        "lat": 49.9640292,
+        "long": 14.0733907
+    },
+    {
+        "city": "Kladno",
+        "data": [
+            {
+                "category": "sick",
+                "value": 25773
+            },
+            {
+                "category": "deceased",
+                "value": 406
+            },
+            {
+                "category": "recovered",
+                "value": 24309
+            }
+        ],
+        "lat": 50.1478497,
+        "long": 14.1025379
+    },
+    {
+        "city": "Kolín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 18605
+            },
+            {
+                "category": "deceased",
+                "value": 307
+            },
+            {
+                "category": "recovered",
+                "value": 17577
+            }
+        ],
+        "lat": 50.0288894,
+        "long": 15.2011571
+    },
+    {
+        "city": "Kutná Hora",
+        "data": [
+            {
+                "category": "sick",
+                "value": 11946
+            },
+            {
+                "category": "deceased",
+                "value": 210
+            },
+            {
+                "category": "recovered",
+                "value": 11245
+            }
+        ],
+        "lat": 49.9486561,
+        "long": 15.2681123
+    },
+    {
+        "city": "Mělník",
+        "data": [
+            {
+                "category": "sick",
+                "value": 17435
+            },
+            {
+                "category": "deceased",
+                "value": 324
+            },
+            {
+                "category": "recovered",
+                "value": 16650
+            }
+        ],
+        "lat": 50.3520785,
+        "long": 14.4748281
+    },
+    {
+        "city": "Mladá Boleslav",
+        "data": [
+            {
+                "category": "sick",
+                "value": 21990
+            },
+            {
+                "category": "deceased",
+                "value": 405
+            },
+            {
+                "category": "recovered",
+                "value": 20616
+            }
+        ],
+        "lat": 50.4116187,
+        "long": 14.9031301
+    },
+    {
+        "city": "Nymburk",
+        "data": [
+            {
+                "category": "sick",
+                "value": 16787
+            },
+            {
+                "category": "deceased",
+                "value": 286
+            },
+            {
+                "category": "recovered",
+                "value": 15955
+            }
+        ],
+        "lat": 50.186331,
+        "long": 15.0417306
+    },
+    {
+        "city": "Praha-východ",
+        "data": [
+            {
+                "category": "sick",
+                "value": 27212
+            },
+            {
+                "category": "deceased",
+                "value": 263
+            },
+            {
+                "category": "recovered",
+                "value": 26579
+            }
+        ],
+        "lat": 50.0828112,
+        "long": 14.71921794867766
+    },
+    {
+        "city": "České Budějovice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 26059
+            },
+            {
+                "category": "deceased",
+                "value": 426
+            },
+            {
+                "category": "recovered",
+                "value": 24587
+            }
+        ],
+        "lat": 48.9747357,
+        "long": 14.474285
+    },
+    {
+        "city": "Český Krumlov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 7458
+            },
+            {
+                "category": "deceased",
+                "value": 160
+            },
+            {
+                "category": "recovered",
+                "value": 6769
+            }
+        ],
+        "lat": 48.805114950000004,
+        "long": 14.316197791106362
+    },
+    {
+        "city": "Jindřichův Hradec",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15161
+            },
+            {
+                "category": "deceased",
+                "value": 310
+            },
+            {
+                "category": "recovered",
+                "value": 14006
+            }
+        ],
+        "lat": 49.1443265,
+        "long": 15.003354
+    },
+    {
+        "city": "Písek",
+        "data": [
+            {
+                "category": "sick",
+                "value": 11567
+            },
+            {
+                "category": "deceased",
+                "value": 172
+            },
+            {
+                "category": "recovered",
+                "value": 10886
+            }
+        ],
+        "lat": 49.3089887,
+        "long": 14.147769
+    },
+    {
+        "city": "Prachatice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 6471
+            },
+            {
+                "category": "deceased",
+                "value": 165
+            },
+            {
+                "category": "recovered",
+                "value": 5960
+            }
+        ],
+        "lat": 49.0131123,
+        "long": 13.9977479
+    },
+    {
+        "city": "Strakonice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 10100
+            },
+            {
+                "category": "deceased",
+                "value": 224
+            },
+            {
+                "category": "recovered",
+                "value": 9516
+            }
+        ],
+        "lat": 49.2662501,
+        "long": 13.913701605344116
+    },
+    {
+        "city": "Tábor",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15314
+            },
+            {
+                "category": "deceased",
+                "value": 382
+            },
+            {
+                "category": "recovered",
+                "value": 13985
+            }
+        ],
+        "lat": 49.4116462,
+        "long": 14.671067073598662
+    },
+    {
+        "city": "Domažlice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 8050
+            },
+            {
+                "category": "deceased",
+                "value": 172
+            },
+            {
+                "category": "recovered",
+                "value": 7591
+            }
+        ],
+        "lat": 49.4407069,
+        "long": 12.9298338
+    },
+    {
+        "city": "Klatovy",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13632
+            },
+            {
+                "category": "deceased",
+                "value": 288
+            },
+            {
+                "category": "recovered",
+                "value": 12957
+            }
+        ],
+        "lat": 49.3951183,
+        "long": 13.2935954
+    },
+    {
+        "city": "Plzeň-město",
+        "data": [
+            {
+                "category": "sick",
+                "value": 30485
+            },
+            {
+                "category": "deceased",
+                "value": 497
+            },
+            {
+                "category": "recovered",
+                "value": 29185
+            }
+        ],
+        "lat": 49.7477415,
+        "long": 13.3775249
+    },
+    {
+        "city": "Plzeň-jih",
+        "data": [
+            {
+                "category": "sick",
+                "value": 11840
+            },
+            {
+                "category": "deceased",
+                "value": 234
+            },
+            {
+                "category": "recovered",
+                "value": 11264
+            }
+        ],
+        "lat": 49.5604755,
+        "long": 13.6679349
+    },
+    {
+        "city": "Plzeň-sever",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13465
+            },
+            {
+                "category": "deceased",
+                "value": 210
+            },
+            {
+                "category": "recovered",
+                "value": 12854
+            }
+        ],
+        "lat": 49.8814234,
+        "long": 13.28128812312578
+    },
+    {
+        "city": "Rokycany",
+        "data": [
+            {
+                "category": "sick",
+                "value": 8206
+            },
+            {
+                "category": "deceased",
+                "value": 203
+            },
+            {
+                "category": "recovered",
+                "value": 7824
+            }
+        ],
+        "lat": 49.7429636,
+        "long": 13.5945245
+    },
+    {
+        "city": "Tachov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 8911
+            },
+            {
+                "category": "deceased",
+                "value": 209
+            },
+            {
+                "category": "recovered",
+                "value": 8596
+            }
+        ],
+        "lat": 49.7955449,
+        "long": 12.6329861
+    },
+    {
+        "city": "Cheb",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13951
+            },
+            {
+                "category": "deceased",
+                "value": 565
+            },
+            {
+                "category": "recovered",
+                "value": 13345
+            }
+        ],
+        "lat": 50.0793511,
+        "long": 12.3703526
+    },
+    {
+        "city": "Karlovy Vary",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15663
+            },
+            {
+                "category": "deceased",
+                "value": 452
+            },
+            {
+                "category": "recovered",
+                "value": 14946
+            }
+        ],
+        "lat": 50.2304694,
+        "long": 12.8710769
+    },
+    {
+        "city": "Sokolov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14767
+            },
+            {
+                "category": "deceased",
+                "value": 424
+            },
+            {
+                "category": "recovered",
+                "value": 14107
+            }
+        ],
+        "lat": 50.1815641,
+        "long": 12.640035
+    },
+    {
+        "city": "Děčín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20384
+            },
+            {
+                "category": "deceased",
+                "value": 416
+            },
+            {
+                "category": "recovered",
+                "value": 18614
+            }
+        ],
+        "lat": 50.7824196,
+        "long": 14.2147221
+    },
+    {
+        "city": "Chomutov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15293
+            },
+            {
+                "category": "deceased",
+                "value": 362
+            },
+            {
+                "category": "recovered",
+                "value": 13973
+            }
+        ],
+        "lat": 50.4606456,
+        "long": 13.4178324
+    },
+    {
+        "city": "Litoměřice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 18211
+            },
+            {
+                "category": "deceased",
+                "value": 331
+            },
+            {
+                "category": "recovered",
+                "value": 17116
+            }
+        ],
+        "lat": 50.5340795,
+        "long": 14.1317985
+    },
+    {
+        "city": "Louny",
+        "data": [
+            {
+                "category": "sick",
+                "value": 12319
+            },
+            {
+                "category": "deceased",
+                "value": 245
+            },
+            {
+                "category": "recovered",
+                "value": 11265
+            }
+        ],
+        "lat": 50.3572914,
+        "long": 13.7969195
+    },
+    {
+        "city": "Most",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15137
+            },
+            {
+                "category": "deceased",
+                "value": 371
+            },
+            {
+                "category": "recovered",
+                "value": 13755
+            }
+        ],
+        "lat": 50.5032737,
+        "long": 13.636112
+    },
+    {
+        "city": "Teplice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 16815
+            },
+            {
+                "category": "deceased",
+                "value": 279
+            },
+            {
+                "category": "recovered",
+                "value": 15342
+            }
+        ],
+        "lat": 50.6406644,
+        "long": 13.8244461
+    },
+    {
+        "city": "Ústí nad Labem",
+        "data": [
+            {
+                "category": "sick",
+                "value": 17469
+            },
+            {
+                "category": "deceased",
+                "value": 276
+            },
+            {
+                "category": "recovered",
+                "value": 16280
+            }
+        ],
+        "lat": 50.6603327,
+        "long": 14.0381357
+    },
+    {
+        "city": "Česká Lípa",
+        "data": [
+            {
+                "category": "sick",
+                "value": 16296
+            },
+            {
+                "category": "deceased",
+                "value": 331
+            },
+            {
+                "category": "recovered",
+                "value": 14886
+            }
+        ],
+        "lat": 50.6865452,
+        "long": 14.5372974
+    },
+    {
+        "city": "Jablonec nad Nisou",
+        "data": [
+            {
+                "category": "sick",
+                "value": 16868
+            },
+            {
+                "category": "deceased",
+                "value": 299
+            },
+            {
+                "category": "recovered",
+                "value": 16060
+            }
+        ],
+        "lat": 50.7240899,
+        "long": 15.1710958
+    },
+    {
+        "city": "Liberec",
+        "data": [
+            {
+                "category": "sick",
+                "value": 31697
+            },
+            {
+                "category": "deceased",
+                "value": 402
+            },
+            {
+                "category": "recovered",
+                "value": 30177
+            }
+        ],
+        "lat": 50.7702648,
+        "long": 15.0583947
+    },
+    {
+        "city": "Semily",
+        "data": [
+            {
+                "category": "sick",
+                "value": 12600
+            },
+            {
+                "category": "deceased",
+                "value": 176
+            },
+            {
+                "category": "recovered",
+                "value": 12083
+            }
+        ],
+        "lat": 50.607196900000005,
+        "long": 15.335157179691876
+    },
+    {
+        "city": "Hradec Králové",
+        "data": [
+            {
+                "category": "sick",
+                "value": 30874
+            },
+            {
+                "category": "deceased",
+                "value": 412
+            },
+            {
+                "category": "recovered",
+                "value": 29837
+            }
+        ],
+        "lat": 50.2092113,
+        "long": 15.8327512
+    },
+    {
+        "city": "Jičín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13794
+            },
+            {
+                "category": "deceased",
+                "value": 225
+            },
+            {
+                "category": "recovered",
+                "value": 13253
+            }
+        ],
+        "lat": 50.4370452,
+        "long": 15.3516528
+    },
+    {
+        "city": "Náchod",
+        "data": [
+            {
+                "category": "sick",
+                "value": 21386
+            },
+            {
+                "category": "deceased",
+                "value": 442
+            },
+            {
+                "category": "recovered",
+                "value": 20618
+            }
+        ],
+        "lat": 50.41472735,
+        "long": 16.166904528325247
+    },
+    {
+        "city": "Rychnov nad Kněžnou",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14576
+            },
+            {
+                "category": "deceased",
+                "value": 189
+            },
+            {
+                "category": "recovered",
+                "value": 13984
+            }
+        ],
+        "lat": 50.1631069,
+        "long": 16.274837
+    },
+    {
+        "city": "Trutnov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 22282
+            },
+            {
+                "category": "deceased",
+                "value": 487
+            },
+            {
+                "category": "recovered",
+                "value": 21576
+            }
+        ],
+        "lat": 50.5650371,
+        "long": 15.916961395515788
+    },
+    {
+        "city": "Chrudim",
+        "data": [
+            {
+                "category": "sick",
+                "value": 19213
+            },
+            {
+                "category": "deceased",
+                "value": 276
+            },
+            {
+                "category": "recovered",
+                "value": 17990
+            }
+        ],
+        "lat": 49.9511458,
+        "long": 15.7947559
+    },
+    {
+        "city": "Pardubice",
+        "data": [
+            {
+                "category": "sick",
+                "value": 31039
+            },
+            {
+                "category": "deceased",
+                "value": 419
+            },
+            {
+                "category": "recovered",
+                "value": 29541
+            }
+        ],
+        "lat": 50.0385812,
+        "long": 15.7791356
+    },
+    {
+        "city": "Svitavy",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15827
+            },
+            {
+                "category": "deceased",
+                "value": 286
+            },
+            {
+                "category": "recovered",
+                "value": 14559
+            }
+        ],
+        "lat": 49.7562053,
+        "long": 16.4688995
+    },
+    {
+        "city": "Ústí nad Orlicí",
+        "data": [
+            {
+                "category": "sick",
+                "value": 23477
+            },
+            {
+                "category": "deceased",
+                "value": 345
+            },
+            {
+                "category": "recovered",
+                "value": 21858
+            }
+        ],
+        "lat": 49.9737603,
+        "long": 16.3941695
+    },
+    {
+        "city": "Havlíčkův Brod",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15573
+            },
+            {
+                "category": "deceased",
+                "value": 307
+            },
+            {
+                "category": "recovered",
+                "value": 14931
+            }
+        ],
+        "lat": 49.607079,
+        "long": 15.5794883
+    },
+    {
+        "city": "Jihlava",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15883
+            },
+            {
+                "category": "deceased",
+                "value": 293
+            },
+            {
+                "category": "recovered",
+                "value": 14540
+            }
+        ],
+        "lat": 49.396064,
+        "long": 15.5903065
+    },
+    {
+        "city": "Pelhřimov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 11386
+            },
+            {
+                "category": "deceased",
+                "value": 208
+            },
+            {
+                "category": "recovered",
+                "value": 10500
+            }
+        ],
+        "lat": 49.425879550000005,
+        "long": 15.22282902635321
+    },
+    {
+        "city": "Třebíč",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14197
+            },
+            {
+                "category": "deceased",
+                "value": 239
+            },
+            {
+                "category": "recovered",
+                "value": 13031
+            }
+        ],
+        "lat": 49.2151907,
+        "long": 15.8816091
+    },
+    {
+        "city": "Žďár nad Sázavou",
+        "data": [
+            {
+                "category": "sick",
+                "value": 17512
+            },
+            {
+                "category": "deceased",
+                "value": 227
+            },
+            {
+                "category": "recovered",
+                "value": 16126
+            }
+        ],
+        "lat": 49.5629014,
+        "long": 15.9391924
+    },
+    {
+        "city": "Blansko",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14100
+            },
+            {
+                "category": "deceased",
+                "value": 369
+            },
+            {
+                "category": "recovered",
+                "value": 12839
+            }
+        ],
+        "lat": 49.3621289,
+        "long": 16.645061176260818
+    },
+    {
+        "city": "Brno-město",
+        "data": [
+            {
+                "category": "sick",
+                "value": 43700
+            },
+            {
+                "category": "deceased",
+                "value": 787
+            },
+            {
+                "category": "recovered",
+                "value": 41103
+            }
+        ],
+        "lat": 49.191596,
+        "long": 16.6111292
+    },
+    {
+        "city": "Brno-venkov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 27387
+            },
+            {
+                "category": "deceased",
+                "value": 463
+            },
+            {
+                "category": "recovered",
+                "value": 25520
+            }
+        ],
+        "lat": 49.176183800000004,
+        "long": 16.388164290584946
+    },
+    {
+        "city": "Břeclav",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13728
+            },
+            {
+                "category": "deceased",
+                "value": 356
+            },
+            {
+                "category": "recovered",
+                "value": 12581
+            }
+        ],
+        "lat": 48.7594008,
+        "long": 16.8813137
+    },
+    {
+        "city": "Hodonín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20996
+            },
+            {
+                "category": "deceased",
+                "value": 462
+            },
+            {
+                "category": "recovered",
+                "value": 19085
+            }
+        ],
+        "lat": 48.8492027,
+        "long": 17.1324031
+    },
+    {
+        "city": "Vyškov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 12582
+            },
+            {
+                "category": "deceased",
+                "value": 326
+            },
+            {
+                "category": "recovered",
+                "value": 11559
+            }
+        ],
+        "lat": 49.2778194,
+        "long": 16.9994446
+    },
+    {
+        "city": "Znojmo",
+        "data": [
+            {
+                "category": "sick",
+                "value": 13939
+            },
+            {
+                "category": "deceased",
+                "value": 369
+            },
+            {
+                "category": "recovered",
+                "value": 12669
+            }
+        ],
+        "lat": 48.8554341,
+        "long": 16.0489457
+    },
+    {
+        "city": "Jeseník",
+        "data": [
+            {
+                "category": "sick",
+                "value": 4517
+            },
+            {
+                "category": "deceased",
+                "value": 132
+            },
+            {
+                "category": "recovered",
+                "value": 4166
+            }
+        ],
+        "lat": 50.2296385,
+        "long": 17.2046012
+    },
+    {
+        "city": "Olomouc",
+        "data": [
+            {
+                "category": "sick",
+                "value": 33350
+            },
+            {
+                "category": "deceased",
+                "value": 625
+            },
+            {
+                "category": "recovered",
+                "value": 30679
+            }
+        ],
+        "lat": 49.5940567,
+        "long": 17.251143
+    },
+    {
+        "city": "Prostějov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15435
+            },
+            {
+                "category": "deceased",
+                "value": 229
+            },
+            {
+                "category": "recovered",
+                "value": 14343
+            }
+        ],
+        "lat": 49.4721467,
+        "long": 17.1117979
+    },
+    {
+        "city": "Přerov",
+        "data": [
+            {
+                "category": "sick",
+                "value": 19816
+            },
+            {
+                "category": "deceased",
+                "value": 291
+            },
+            {
+                "category": "recovered",
+                "value": 18611
+            }
+        ],
+        "lat": 49.4553775,
+        "long": 17.4508621
+    },
+    {
+        "city": "Šumperk",
+        "data": [
+            {
+                "category": "sick",
+                "value": 14589
+            },
+            {
+                "category": "deceased",
+                "value": 293
+            },
+            {
+                "category": "recovered",
+                "value": 13380
+            }
+        ],
+        "lat": 49.9655521,
+        "long": 16.9705651
+    },
+    {
+        "city": "Kroměříž",
+        "data": [
+            {
+                "category": "sick",
+                "value": 15154
+            },
+            {
+                "category": "deceased",
+                "value": 286
+            },
+            {
+                "category": "recovered",
+                "value": 14185
+            }
+        ],
+        "lat": 49.2984191,
+        "long": 17.3929804
+    },
+    {
+        "city": "Uherské Hradiště",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20304
+            },
+            {
+                "category": "deceased",
+                "value": 295
+            },
+            {
+                "category": "recovered",
+                "value": 18931
+            }
+        ],
+        "lat": 49.0681018,
+        "long": 17.4663899
+    },
+    {
+        "city": "Vsetín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20030
+            },
+            {
+                "category": "deceased",
+                "value": 345
+            },
+            {
+                "category": "recovered",
+                "value": 18558
+            }
+        ],
+        "lat": 49.3389775,
+        "long": 17.9961534
+    },
+    {
+        "city": "Zlín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 29377
+            },
+            {
+                "category": "deceased",
+                "value": 523
+            },
+            {
+                "category": "recovered",
+                "value": 26991
+            }
+        ],
+        "lat": 49.226766,
+        "long": 17.6667415
+    },
+    {
+        "city": "Bruntál",
+        "data": [
+            {
+                "category": "sick",
+                "value": 11628
+            },
+            {
+                "category": "deceased",
+                "value": 303
+            },
+            {
+                "category": "recovered",
+                "value": 10695
+            }
+        ],
+        "lat": 49.9885113,
+        "long": 17.4652901
+    },
+    {
+        "city": "Frýdek-Místek",
+        "data": [
+            {
+                "category": "sick",
+                "value": 30224
+            },
+            {
+                "category": "deceased",
+                "value": 583
+            },
+            {
+                "category": "recovered",
+                "value": 27957
+            }
+        ],
+        "lat": 49.685635,
+        "long": 18.3483416
+    },
+    {
+        "city": "Karviná",
+        "data": [
+            {
+                "category": "sick",
+                "value": 33914
+            },
+            {
+                "category": "deceased",
+                "value": 692
+            },
+            {
+                "category": "recovered",
+                "value": 31706
+            }
+        ],
+        "lat": 49.8542719,
+        "long": 18.5416556
+    },
+    {
+        "city": "Nový Jičín",
+        "data": [
+            {
+                "category": "sick",
+                "value": 20127
+            },
+            {
+                "category": "deceased",
+                "value": 314
+            },
+            {
+                "category": "recovered",
+                "value": 18760
+            }
+        ],
+        "lat": 49.594881,
+        "long": 18.0102584
+    },
+    {
+        "city": "Opava",
+        "data": [
+            {
+                "category": "sick",
+                "value": 29230
+            },
+            {
+                "category": "deceased",
+                "value": 449
+            },
+            {
+                "category": "recovered",
+                "value": 27894
+            }
+        ],
+        "lat": 49.9389004,
+        "long": 17.9024174
+    },
+    {
+        "city": "Ostrava-město",
+        "data": [
+            {
+                "category": "sick",
+                "value": 41612
+            },
+            {
+                "category": "deceased",
+                "value": 875
+            },
+            {
+                "category": "recovered",
+                "value": 38658
+            }
+        ],
+        "lat": 49.8349139,
+        "long": 18.2820084
+    }
+]

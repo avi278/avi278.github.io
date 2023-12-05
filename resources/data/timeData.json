@@ -1,0 +1,1844 @@
+[
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "AGO",
+        "value": 334330,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "BHS",
+        "value": 635885,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "BTN",
+        "value": 288648,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "BWA",
+        "value": 743753,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "CHL",
+        "value": 94624,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "CIV",
+        "value": 989312,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "COL",
+        "value": 816099,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "ETH",
+        "value": 676207,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "GAB",
+        "value": 694843,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "HUN",
+        "value": 585567,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "ISR",
+        "value": 370033,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "KAZ",
+        "value": 648922,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "LBR",
+        "value": 671135,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "MYS",
+        "value": 282479,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "NAM",
+        "value": 600989,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "NGA",
+        "value": 662389,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "PAK",
+        "value": 188671,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "RWA",
+        "value": 747566,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "SLB",
+        "value": 583113,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BEL",
+        "to": "TJK",
+        "value": 640900,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "BEL",
+        "value": 915010,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "BEN",
+        "value": 810924,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "FIN",
+        "value": 685831,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "LSO",
+        "value": 48117,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "LVA",
+        "value": 671012,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "NGA",
+        "value": 662389,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "NOR",
+        "value": 361234,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "PRT",
+        "value": 114817,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "TCD",
+        "value": 3127,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "VUT",
+        "value": 223157,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "BGD",
+        "to": "ZMB",
+        "value": 79915,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "ARM",
+        "value": 563243,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "BTN",
+        "value": 288648,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "BWA",
+        "value": 743753,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "CHN",
+        "value": 670843,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "ESP",
+        "value": 856693,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "EST",
+        "value": 704663,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "GEO",
+        "value": 680982,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "LBY",
+        "value": 331934,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "MKD",
+        "value": 243832,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "MNE",
+        "value": 793557,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "MWI",
+        "value": 178059,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "NER",
+        "value": 542473,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "NLD",
+        "value": 848436,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "NZL",
+        "value": 660545,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "PAN",
+        "value": 381301,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "PER",
+        "value": 866765,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "PRY",
+        "value": 836051,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "SDS",
+        "value": 183150,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "SWZ",
+        "value": 895419,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "UGA",
+        "value": 54414,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "ETH",
+        "to": "YEM",
+        "value": 165541,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "GMB",
+        "to": "AGO",
+        "value": 334330,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "GMB",
+        "to": "AZE",
+        "value": 817452,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "BDI",
+        "value": 640399,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "BTN",
+        "value": 288648,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "CZE",
+        "value": 875050,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "ERI",
+        "value": 451985,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "EST",
+        "value": 704663,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "GBR",
+        "value": 6716,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "IRN",
+        "value": 159935,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "KAZ",
+        "value": 648922,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "MAR",
+        "value": 85097,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "MYS",
+        "value": 282479,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "NAM",
+        "value": 600989,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "SRB",
+        "value": 983370,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "TGO",
+        "value": 878833,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "TTO",
+        "value": 934531,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GMB",
+        "to": "ZMB",
+        "value": 79915,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "AGO",
+        "value": 334330,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "HND",
+        "value": 156129,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "JOR",
+        "value": 166290,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "LKA",
+        "value": 157573,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "PER",
+        "value": 866765,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "PRT",
+        "value": 114817,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "RUS",
+        "value": 555899,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "TLS",
+        "value": 389211,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"active",
+        "from": "GTM",
+        "to": "TTO",
+        "value": 934531,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "BLZ",
+        "value": 82953,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "CHN",
+        "value": 670843,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "DEU",
+        "value": 915183,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "GUY",
+        "value": 671850,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "IRL",
+        "value": 384415,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "JOR",
+        "value": 166290,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "KAZ",
+        "value": 648922,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "MDA",
+        "value": 619841,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "MMR",
+        "value": 396093,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "MNG",
+        "value": 133142,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "MOZ",
+        "value": 81353,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "NER",
+        "value": 542473,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "RUS",
+        "value": 555899,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "TCD",
+        "value": 3127,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "TLS",
+        "value": 389211,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "HUN",
+        "to": "UGA",
+        "value": 54414,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "BLZ",
+        "value": 82953,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "BTN",
+        "value": 288648,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "CHL",
+        "value": 94624,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "CZE",
+        "value": 875050,
+        "date": "1/1/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "ESP",
+        "value": 856693,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "HND",
+        "value": 156129,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "ITA",
+        "value": 597263,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "LBR",
+        "value": 671135,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "LBY",
+        "value": 331934,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "MAR",
+        "value": 85097,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "MMR",
+        "value": 396093,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "NIC",
+        "value": 730682,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "RWA",
+        "value": 747566,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "JAM",
+        "to": "SEN",
+        "value": 807101,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "ALB",
+        "value": 424214,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "AUT",
+        "value": 829862,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "BHS",
+        "value": 635885,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "BRN",
+        "value": 209955,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "CMR",
+        "value": 612989,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "GAB",
+        "value": 694843,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "GMB",
+        "value": 947963,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "GRC",
+        "value": 493407,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "IND",
+        "value": 320066,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "IRL",
+        "value": 384415,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "ISL",
+        "value": 554600,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "ISR",
+        "value": 370033,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "JPN",
+        "value": 827751,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "MWI",
+        "value": 178059,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "MYS",
+        "value": 282479,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "NER",
+        "value": 542473,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "PAK",
+        "value": 188671,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "PER",
+        "value": 866765,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "POL",
+        "value": 39770,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "PRY",
+        "value": 836051,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "VEN",
+        "value": 984704,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KAZ",
+        "to": "YEM",
+        "value": 165541,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "BFA",
+        "value": 315211,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "BWA",
+        "value": 743753,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "EGY",
+        "value": 801232,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "ETH",
+        "value": 676207,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "KWT",
+        "value": 838674,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "MEX",
+        "value": 462349,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "UKR",
+        "value": 174516,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "KEN",
+        "to": "USA",
+        "value": 600646,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "ARM",
+        "value": 563243,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "ECU",
+        "value": 319911,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "EST",
+        "value": 704663,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "GBR",
+        "value": 6716,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "GEO",
+        "value": 680982,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "KGZ",
+        "value": 670001,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "MEX",
+        "value": 462349,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "NLD",
+        "value": 848436,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "PHL",
+        "value": 800011,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "POL",
+        "value": 39770,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "PRY",
+        "value": 836051,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "SLB",
+        "value": 583113,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "SVK",
+        "value": 621900,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "TUR",
+        "value": 984165,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PAK",
+        "to": "VUT",
+        "value": 223157,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "AFG",
+        "value": 91671,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "AGO",
+        "value": 334330,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "BLR",
+        "value": 45488,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "BTN",
+        "value": 288648,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "CAF",
+        "value": 65742,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "CHN",
+        "value": 670843,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "CUB",
+        "value": 422979,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "EST",
+        "value": 704663,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "GAB",
+        "value": 694843,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "GNQ",
+        "value": 261771,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "GUY",
+        "value": 671850,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "JAM",
+        "value": 994400,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "LBY",
+        "value": 331934,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "LKA",
+        "value": 157573,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "LSO",
+        "value": 48117,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "MLI",
+        "value": 960787,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "PRY",
+        "value": 836051,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "SDN",
+        "value": 139880,
+        "date": "1/2/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "SRB",
+        "value": 983370,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "TCD",
+        "value": 3127,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "TGO",
+        "value": 878833,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "TJK",
+        "value": 640900,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "TTO",
+        "value": 934531,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "TZA",
+        "value": 587142,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "USA",
+        "value": 600646,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "PRT",
+        "to": "UZB",
+        "value": 549299,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "AGO",
+        "value": 334330,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "AUT",
+        "value": 829862,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "BDI",
+        "value": 640399,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "CAN",
+        "value": 891572,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "DEU",
+        "value": 915183,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "DOM",
+        "value": 33179,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "GIN",
+        "value": 304158,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "MMR",
+        "value": 396093,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "MOZ",
+        "value": 81353,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "MWI",
+        "value": 178059,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "NAM",
+        "value": 600989,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "NPL",
+        "value": 940954,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "PNG",
+        "value": 673622,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "RWA",
+        "value": 747566,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "SDN",
+        "value": 139880,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "SYR",
+        "value": 85648,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "YEM",
+        "value": 165541,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "QAT",
+        "to": "ZMB",
+        "value": 79915,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "ARG",
+        "value": 418700,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "BEN",
+        "value": 810924,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "CIV",
+        "value": 989312,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "DJI",
+        "value": 644362,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "ECU",
+        "value": 319911,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "FRA",
+        "value": 24829,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "IND",
+        "value": 320066,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "IRQ",
+        "value": 416586,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "LSO",
+        "value": 48117,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "LVA",
+        "value": 671012,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "MMR",
+        "value": 396093,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "PRY",
+        "value": 836051,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "SDS",
+        "value": 183150,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "SEN",
+        "value": 807101,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "SLE",
+        "value": 851430,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "SRB",
+        "value": 983370,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "TJK",
+        "value": 640900,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "TZA",
+        "value": 587142,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "VUT",
+        "value": 223157,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "RUS",
+        "to": "ZAF",
+        "value": 288769,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "ALB",
+        "value": 424214,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "CIV",
+        "value": 989312,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "DZA",
+        "value": 6176,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "FJI",
+        "value": 444486,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "IRN",
+        "value": 159935,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "MDG",
+        "value": 428569,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "MMR",
+        "value": 396093,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "MOZ",
+        "value": 81353,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "MRT",
+        "value": 677055,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "MWI",
+        "value": 178059,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "NPL",
+        "value": 940954,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "SLE",
+        "value": 851430,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "SRB",
+        "value": 983370,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "VEN",
+        "value": 984704,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SDS",
+        "to": "KOR",
+        "value": 151931,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SUR",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SUR",
+        "to": "CHE",
+        "value": 827766,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SUR",
+        "to": "CUB",
+        "value": 422979,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"mitigated",
+        "from": "SUR",
+        "to": "CYP",
+        "value": 232472,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "DEU",
+        "value": 915183,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "ESP",
+        "value": 856693,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "FRA",
+        "value": 24829,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "KEN",
+        "value": 937622,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "KHM",
+        "value": 23322,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "LBN",
+        "value": 457678,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "NPL",
+        "value": 940954,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "OMN",
+        "value": 710489,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "PNG",
+        "value": 673622,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "ROU",
+        "value": 21947,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "THA",
+        "value": 492995,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "TKM",
+        "value": 35489,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "UGA",
+        "value": 54414,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "YEM",
+        "value": 165541,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SUR",
+        "to": "ZAF",
+        "value": 288769,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "ARE",
+        "value": 131255,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "AUT",
+        "value": 829862,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "BEN",
+        "value": 810924,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "BIH",
+        "value": 143895,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "CYP",
+        "value": 232472,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "CZE",
+        "value": 875050,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "PHL",
+        "value": 800011,
+        "date": "1/3/2020"
+    },
+    {
+        "state":"finished",
+        "from": "SVK",
+        "to": "SLV",
+        "value": 951207,
+        "date": "1/3/2020"
+    }
+
+]

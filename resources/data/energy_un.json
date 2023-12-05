@@ -1,0 +1,2630 @@
+[
+    {
+        "Country": "AFG",
+        "Value": 30495.6,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "AFG",
+        "Value": 5380.21548,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "AFG",
+        "Value": 13497.90737,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ALB",
+        "Value": 4905.2167,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ALB",
+        "Value": 306.567,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ALB",
+        "Value": 11173.82005,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DZA",
+        "Value": 623430.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "DZA",
+        "Value": 1032.255,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AND",
+        "Value": 2.50518,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "AND",
+        "Value": 32.197685,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AGO",
+        "Value": 13561.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "AGO",
+        "Value": 202006.9178925,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ATG",
+        "Value": 0.045675,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AZE",
+        "Value": 27.7,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "AZE",
+        "Value": 132977.07,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "AZE",
+        "Value": 1339.4005,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ARG",
+        "Value": 1977.264,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ARG",
+        "Value": 726082.8642,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ARG",
+        "Value": 135421.6676,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AUS",
+        "Value": 89001.097,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "AUS",
+        "Value": 692.512,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "AUS",
+        "Value": 479690.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "AUS",
+        "Value": 170739.6,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AUT",
+        "Value": 6569.604,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "AUT",
+        "Value": 197534.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "AUT",
+        "Value": 160342.301,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BHS",
+        "Value": 281.5911,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BHR",
+        "Value": 38754.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BHR",
+        "Value": 126.2636,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BGD",
+        "Value": 73081.9624,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BGD",
+        "Value": 377711.4254202,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BGD",
+        "Value": 587512.98183,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ARM",
+        "Value": 20.9595,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ARM",
+        "Value": 54618.678,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ARM",
+        "Value": 6087.9258,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BRB",
+        "Value": 474.39,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BRB",
+        "Value": 547.17503,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BEL",
+        "Value": 25253.032,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BEL",
+        "Value": 397887.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BEL",
+        "Value": 81932.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BMU",
+        "Value": 80.754,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BMU",
+        "Value": 3.256318,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BTN",
+        "Value": 4820.0592,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BTN",
+        "Value": 47430.484565,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BOL",
+        "Value": 206.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BOL",
+        "Value": 70684.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BOL",
+        "Value": 27780.21975,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BIH",
+        "Value": 11678.256,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BIH",
+        "Value": 6199.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BIH",
+        "Value": 47179.742,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BWA",
+        "Value": 1816.969,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BWA",
+        "Value": 4488.31225,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BRA",
+        "Value": 175779.724,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BRA",
+        "Value": 464610.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BRA",
+        "Value": 2548882.9813,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BLZ",
+        "Value": 450.01368,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "BLZ",
+        "Value": 3075.39765,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SLB",
+        "Value": 3232.206135,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "VGB",
+        "Value": 14.0776,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BRN",
+        "Value": 26308.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BRN",
+        "Value": 100.543805,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BGR",
+        "Value": 13838.075,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BGR",
+        "Value": 54429.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BGR",
+        "Value": 54347.199998815,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MMR",
+        "Value": 13734.55,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MMR",
+        "Value": 18026.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MMR",
+        "Value": 459441.7383,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BDI",
+        "Value": 178.771493,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BDI",
+        "Value": 48450.534753,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BLR",
+        "Value": 14467.9708,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "BLR",
+        "Value": 132824.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "BLR",
+        "Value": 29433.309,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KHM",
+        "Value": 2287.005,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "KHM",
+        "Value": 165972.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CMR",
+        "Value": 241398.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CAN",
+        "Value": 37550.506,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CAN",
+        "Value": 2024501.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CAN",
+        "Value": 455862.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CPV",
+        "Value": 1382.7355,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CYM",
+        "Value": 0.464375,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CAF",
+        "Value": 12775.675,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LKA",
+        "Value": 2198.1,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LKA",
+        "Value": 148885.11666,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TCD",
+        "Value": 61215.14113,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CHL",
+        "Value": 5456.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CHL",
+        "Value": 64468.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CHL",
+        "Value": 167802.4999996,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CHN",
+        "Value": 13043087.5003,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CHN",
+        "Value": 29166.642,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "CHN",
+        "Value": 6179143.401,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CHN",
+        "Value": 3433791.0649,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "COL",
+        "Value": 97290.05,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "COL",
+        "Value": 423.0,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "COL",
+        "Value": 170698.5,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "COL",
+        "Value": 206471.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "COM",
+        "Value": 3799.96975,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "COG",
+        "Value": 54669.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "COD",
+        "Value": 673585.96,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CRI",
+        "Value": 11.7132,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CRI",
+        "Value": 22492.41921778,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "HRV",
+        "Value": 1902.34,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "HRV",
+        "Value": 45051.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "HRV",
+        "Value": 47388.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CUB",
+        "Value": 49.02,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CUB",
+        "Value": 19174.9194,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CUB",
+        "Value": 44941.24103,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CYP",
+        "Value": 593.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CYP",
+        "Value": 4025.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CZE",
+        "Value": 46611.825,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CZE",
+        "Value": 216298.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CZE",
+        "Value": 129409.8,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BEN",
+        "Value": 80472.3293,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DNK",
+        "Value": 5248.474,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "DNK",
+        "Value": 65619.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "DNK",
+        "Value": 67330.4,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DMA",
+        "Value": 61.212255,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DOM",
+        "Value": 3568.14,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "DOM",
+        "Value": 4171.653,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "DOM",
+        "Value": 18968.9826302808,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ECU",
+        "Value": 1787.868,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ECU",
+        "Value": 19063.838,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SLV",
+        "Value": 9109.2,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GNQ",
+        "Value": 72984.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GNQ",
+        "Value": 3805.56775,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ETH",
+        "Value": 16047.6,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ETH",
+        "Value": 1233134.44110028,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ERI",
+        "Value": 15385.76,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "EST",
+        "Value": 2072.868,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "EST",
+        "Value": 10535.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "EST",
+        "Value": 19830.6,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FRO",
+        "Value": 0.295,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FLK",
+        "Value": 47.65,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "FLK",
+        "Value": 3.65332554,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "FLK",
+        "Value": 5.973005,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FJI",
+        "Value": 4.23,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "FJI",
+        "Value": 4305.262395,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FIN",
+        "Value": 14242.922,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "FIN",
+        "Value": 25092.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "FIN",
+        "Value": 252775.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FRA",
+        "Value": 53000.75,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "FRA",
+        "Value": 1167356.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "FRA",
+        "Value": 509778.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PYF",
+        "Value": 36.15166,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DJI",
+        "Value": 2132.50011,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GAB",
+        "Value": 106.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GAB",
+        "Value": 53786.300698005,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GEO",
+        "Value": 8186.77,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "GEO",
+        "Value": 54768.9123,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GEO",
+        "Value": 11328.94,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GMB",
+        "Value": 97.56,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GMB",
+        "Value": 5233.999305,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PSE",
+        "Value": 2448.4075,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "DEU",
+        "Value": 63030.547,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "DEU",
+        "Value": 2261309.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "DEU",
+        "Value": 627819.900003775,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GHA",
+        "Value": 2440.71,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GHA",
+        "Value": 88164.26,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GIB",
+        "Value": 0.69845,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KIR",
+        "Value": 532.12961,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GRC",
+        "Value": 11783.733,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "GRC",
+        "Value": 33978.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GRC",
+        "Value": 44732.1,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GRD",
+        "Value": 392.41061506469,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GTM",
+        "Value": 240618.319205,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GIN",
+        "Value": 3.24,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GIN",
+        "Value": 102951.68746,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GUY",
+        "Value": 4714.492,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "HTI",
+        "Value": 106727.2,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "HND",
+        "Value": 83310.9000028487,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "HKG",
+        "Value": 26595.0,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "HKG",
+        "Value": 118.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "HUN",
+        "Value": 5814.1,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "HUN",
+        "Value": 233419.5,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "HUN",
+        "Value": 79366.20002451,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ISL",
+        "Value": 3996.0,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ISL",
+        "Value": 1722.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "IND",
+        "Value": 5863768.064,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "IND",
+        "Value": 416580.3918,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "IND",
+        "Value": 6472543.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "IDN",
+        "Value": 715239.956,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "IDN",
+        "Value": 375869.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "IDN",
+        "Value": 1748899.1274,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "IRN",
+        "Value": 386.778,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "IRN",
+        "Value": 3871734.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "IRN",
+        "Value": 83541.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "IRQ",
+        "Value": 46952.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "IRQ",
+        "Value": 851.9065,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "IRL",
+        "Value": 12393.676,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "IRL",
+        "Value": 81413.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "IRL",
+        "Value": 19253.8,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ISR",
+        "Value": 56248.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ISR",
+        "Value": 832.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ITA",
+        "Value": 9372.686,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ITA",
+        "Value": 1407959.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ITA",
+        "Value": 345520.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CIV",
+        "Value": 7214.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CIV",
+        "Value": 180231.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "JAM",
+        "Value": 2244.6,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "JAM",
+        "Value": 7157.166,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "JPN",
+        "Value": 424434.554,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "JPN",
+        "Value": 930.826,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "JPN",
+        "Value": 1207320.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "JPN",
+        "Value": 261375.8,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KAZ",
+        "Value": 364646.1226,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "KAZ",
+        "Value": 84.6,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "KAZ",
+        "Value": 221504.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "KAZ",
+        "Value": 2214.699998785,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "JOR",
+        "Value": 7036.1744244,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "JOR",
+        "Value": 2701.29139,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KEN",
+        "Value": 17879.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "KEN",
+        "Value": 321422.2302,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PRK",
+        "Value": 109804.472,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PRK",
+        "Value": 36958.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KOR",
+        "Value": 192763.62,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "KOR",
+        "Value": 938015.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "KOR",
+        "Value": 174836.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "Unknown",
+        "Value": 752.586,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "Unknown",
+        "Value": 15791.08,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KWT",
+        "Value": 150254.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "KWT",
+        "Value": 1636.2904,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KGZ",
+        "Value": 30155.844,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "KGZ",
+        "Value": 7057.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "KGZ",
+        "Value": 101.7337545,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LAO",
+        "Value": 26906.367,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LAO",
+        "Value": 51065.88125,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LBN",
+        "Value": 6918.75,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LBN",
+        "Value": 6266.35,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LSO",
+        "Value": 18421.2,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LSO",
+        "Value": 14796.49905,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LVA",
+        "Value": 1731.91,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LVA",
+        "Value": 14423.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "LVA",
+        "Value": 46630.8,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LBR",
+        "Value": 75832.34569,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LBY",
+        "Value": 61836.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "LBY",
+        "Value": 10649.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LTU",
+        "Value": 6805.065,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LTU",
+        "Value": 24993.0,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "LTU",
+        "Value": 29292.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LUX",
+        "Value": 1573.12,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "LUX",
+        "Value": 26094.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "LUX",
+        "Value": 7508.4,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MAC",
+        "Value": 710.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MAC",
+        "Value": 29.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MDG",
+        "Value": 13416.0,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MDG",
+        "Value": 193251.5153,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MWI",
+        "Value": 2262.6084,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MWI",
+        "Value": 44975.312674,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MYS",
+        "Value": 75724.386,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MYS",
+        "Value": 316307.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MYS",
+        "Value": 39139.478655,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MDV",
+        "Value": 152.3263,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MLI",
+        "Value": 107933.7,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MLT",
+        "Value": 458.2275,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MRT",
+        "Value": 14084.62,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MUS",
+        "Value": 830.656,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MUS",
+        "Value": 1044.89236,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MEX",
+        "Value": 106871.486,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MEX",
+        "Value": 640454.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MEX",
+        "Value": 304803.999995965,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MNG",
+        "Value": 293920.3083,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MNG",
+        "Value": 5481.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MDA",
+        "Value": 3380.144,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MDA",
+        "Value": 18048.33,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MDA",
+        "Value": 31445.992,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MNE",
+        "Value": 278.342,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MNE",
+        "Value": 176.8,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "MNE",
+        "Value": 6299.999998665,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MAR",
+        "Value": 828.99,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MAR",
+        "Value": 2761.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MAR",
+        "Value": 63686.2029190476,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MOZ",
+        "Value": 4824.0,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MOZ",
+        "Value": 95236.2101,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "OMN",
+        "Value": 463473.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "OMN",
+        "Value": 636.1695,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NAM",
+        "Value": 8260.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NPL",
+        "Value": 35295.005,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NPL",
+        "Value": 427400.32,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NLD",
+        "Value": 5791.301,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NLD",
+        "Value": 716144.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "NLD",
+        "Value": 60824.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CUW",
+        "Value": 10.876705,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ABW",
+        "Value": 22.934205,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SXM",
+        "Value": 3.8635,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BES",
+        "Value": 3.8635,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NCL",
+        "Value": 4999.8,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NCL",
+        "Value": 102.235025,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "VUT",
+        "Value": 814.96005,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NZL",
+        "Value": 23076.048,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NZL",
+        "Value": 61648.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "NZL",
+        "Value": 44791.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NIC",
+        "Value": 46395.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NER",
+        "Value": 63738.97219703,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NGA",
+        "Value": 1212.6,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NGA",
+        "Value": 105292.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "NGA",
+        "Value": 4526137.6586,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NIU",
+        "Value": 0.36026,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "NOR",
+        "Value": 15848.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "NOR",
+        "Value": 18109.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "NOR",
+        "Value": 53235.8,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "FSM",
+        "Value": 14.84573,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PLW",
+        "Value": 0.413,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PAK",
+        "Value": 373598.77,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PAK",
+        "Value": 692916.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "PAK",
+        "Value": 928342.4492,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PAN",
+        "Value": 8449.57599,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PNG",
+        "Value": 56229.8712,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PRY",
+        "Value": 151.3932,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PRY",
+        "Value": 116617.612727,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PER",
+        "Value": 21699.408,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PER",
+        "Value": 86635.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "PER",
+        "Value": 88675.9699,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PHL",
+        "Value": 100722.0369,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PHL",
+        "Value": 2535.58458,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "PHL",
+        "Value": 321087.23846,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "POL",
+        "Value": 417429.164,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "POL",
+        "Value": 390826.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "POL",
+        "Value": 285056.4,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "PRT",
+        "Value": 99.08,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "PRT",
+        "Value": 75213.0,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "PRT",
+        "Value": 91706.500764,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GNB",
+        "Value": 24482.67358,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TLS",
+        "Value": 776.374515,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "QAT",
+        "Value": 255693.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "QAT",
+        "Value": 248.8345,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ROU",
+        "Value": 10904.9598,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ROU",
+        "Value": 486.2,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "ROU",
+        "Value": 238559.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ROU",
+        "Value": 161853.9595,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "RUS",
+        "Value": 152255.99048,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "RUS",
+        "Value": 714.87,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "RUS",
+        "Value": 5954445.1602,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "RUS",
+        "Value": 166659.452,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "RWA",
+        "Value": 68767.16962,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SHN",
+        "Value": 5.44319937,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "KNA",
+        "Value": 0.2243435,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "AIA",
+        "Value": 1.6443,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "LCA",
+        "Value": 545.06954,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SPM",
+        "Value": 5.481,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "VCT",
+        "Value": 55.39273,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "STP",
+        "Value": 790.6115,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SAU",
+        "Value": 30244.5,
+        "Year": "2018",
+        "Resource": "Oil"
+    },
+    {
+        "Country": "SAU",
+        "Value": 1691918.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SAU",
+        "Value": 300.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SEN",
+        "Value": 18193.032,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SEN",
+        "Value": 37846.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SRB",
+        "Value": 10291.778,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SRB",
+        "Value": 43456.5,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SRB",
+        "Value": 43939.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SYC",
+        "Value": 28.9551,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SLE",
+        "Value": 42659.8346,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SGP",
+        "Value": 8042.892,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SGP",
+        "Value": 55620.45,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SGP",
+        "Value": 367.57,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SVK",
+        "Value": 16599.07,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SVK",
+        "Value": 110873.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SVK",
+        "Value": 33730.7,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "VNM",
+        "Value": 421611.188053225,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "VNM",
+        "Value": 39810.15,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "VNM",
+        "Value": 337724.000002588,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SVN",
+        "Value": 669.84,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SVN",
+        "Value": 25019.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SVN",
+        "Value": 25812.3,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SOM",
+        "Value": 109765.60148,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ZAF",
+        "Value": 576282.494,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ZAF",
+        "Value": 80293.5,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ZAF",
+        "Value": 246755.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ZWE",
+        "Value": 7720.856,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ZWE",
+        "Value": 335838.73,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ESP",
+        "Value": 13663.725,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ESP",
+        "Value": 597513.6,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ESP",
+        "Value": 245246.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SSD",
+        "Value": 5543.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SDN",
+        "Value": 158554.3304,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SUR",
+        "Value": 1695.08600315,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SWZ",
+        "Value": 1135.2,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SWZ",
+        "Value": 21762.499996965,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SWE",
+        "Value": 13427.772,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "SWE",
+        "Value": 19500.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SWE",
+        "Value": 280391.2,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "CHE",
+        "Value": 3851.2,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "CHE",
+        "Value": 112951.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "CHE",
+        "Value": 57278.6,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "SYR",
+        "Value": 7360.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "SYR",
+        "Value": 202.5,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TJK",
+        "Value": 24979.2,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "TJK",
+        "Value": 1987.38,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TJK",
+        "Value": 50228.3885,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "THA",
+        "Value": 281745.893,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "THA",
+        "Value": 216965.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "THA",
+        "Value": 636733.412994412,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TGO",
+        "Value": 63760.382,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TON",
+        "Value": 13.03702,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TTO",
+        "Value": 31210.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TTO",
+        "Value": 227.9975,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ARE",
+        "Value": 79642.5949,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ARE",
+        "Value": 868199.85,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "ARE",
+        "Value": 1770.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TUN",
+        "Value": 65222.1,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TUN",
+        "Value": 36146.859,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TUR",
+        "Value": 296328.424,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "TUR",
+        "Value": 1007235.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TUR",
+        "Value": 106072.000000645,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TKM",
+        "Value": 437406.3,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TKM",
+        "Value": 415.6,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TCA",
+        "Value": 7.003165,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "UGA",
+        "Value": 5.16,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "UGA",
+        "Value": 655969.474995448,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "UKR",
+        "Value": 104258.251,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "UKR",
+        "Value": 588616.2,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "UKR",
+        "Value": 121360.7835,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "MKD",
+        "Value": 3358.78004,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "MKD",
+        "Value": 1632.8754,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "MKD",
+        "Value": 11918.7176,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "EGY",
+        "Value": 665255.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "EGY",
+        "Value": 166780.71335,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "GBR",
+        "Value": 59389.848,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "GBR",
+        "Value": 1649939.4,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "GBR",
+        "Value": 175912.60000087,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "TZA",
+        "Value": 16202.4,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "TZA",
+        "Value": 6086.7,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "TZA",
+        "Value": 624473.9,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "USA",
+        "Value": 505416.005,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "USA",
+        "Value": 14921154.9,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "USA",
+        "Value": 3410650.07,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "BFA",
+        "Value": 111593.318135,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "URY",
+        "Value": 1915.74,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "URY",
+        "Value": 81471.39616,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "UZB",
+        "Value": 33770.29358855,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "UZB",
+        "Value": 733367.61,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "UZB",
+        "Value": 219.24,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "VEN",
+        "Value": 1375.38,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "VEN",
+        "Value": 238834.8,
+        "Year": "2018",
+        "Resource": "Natural Gas"
+    },
+    {
+        "Country": "VEN",
+        "Value": 27845.0038,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "WSM",
+        "Value": 1453.167,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "YEM",
+        "Value": 3199.2,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "YEM",
+        "Value": 2537.0,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    },
+    {
+        "Country": "ZMB",
+        "Value": 4496.492,
+        "Year": "2018",
+        "Resource": "Coal"
+    },
+    {
+        "Country": "ZMB",
+        "Value": 303448.2833,
+        "Year": "2018",
+        "Resource": "Biofuel and waste"
+    }
+]

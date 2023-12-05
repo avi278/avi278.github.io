@@ -1,0 +1,542 @@
+[
+    {
+        "Country": "AUT",
+        "Value": 3.4,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "AUT",
+        "Value": 9.0,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "AUT",
+        "Value": 9.0,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "AUT",
+        "Value": 63.8,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "BEL",
+        "Value": 19.0,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "BEL",
+        "Value": 59.3,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "BEL",
+        "Value": 772.4,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "BEL",
+        "Value": 550.8,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "CAN",
+        "Value": 671.5,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "CZE",
+        "Value": 1.1,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "CZE",
+        "Value": 0.4,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "CZE",
+        "Value": 0.8,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "CZE",
+        "Value": 9.3,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "DEU",
+        "Value": 1000.3,
+        "Year": "2018",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "DEU",
+        "Value": 1259.4,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "DNK",
+        "Value": 492.1,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "DNK",
+        "Value": 520.9,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "DNK",
+        "Value": 1780.5,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "DNK",
+        "Value": 4520.7,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "EST",
+        "Value": 13.5,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "EST",
+        "Value": 6.4,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "EST",
+        "Value": 77.1,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "EST",
+        "Value": 35.5,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "FIN",
+        "Value": 3.4,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "FIN",
+        "Value": 3.4,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "FIN",
+        "Value": 61.6,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "FIN",
+        "Value": 23.5,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "FRA",
+        "Value": 156.7,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "FRA",
+        "Value": 303.4,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "FRA",
+        "Value": 934.8,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "FRA",
+        "Value": 3019.2,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "GBR",
+        "Value": 1601.9,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "GBR",
+        "Value": 5168.2,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "GRC",
+        "Value": 633.1,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "GRC",
+        "Value": 188.7,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "GRC",
+        "Value": 388.3,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "GRC",
+        "Value": 980.5,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "HUN",
+        "Value": 0.7,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "HUN",
+        "Value": 0.8,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "HUN",
+        "Value": 2.9,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "HUN",
+        "Value": 12.0,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "IRL",
+        "Value": 1.1,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "IRL",
+        "Value": 73.9,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "IRL",
+        "Value": 33.6,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "ISL",
+        "Value": 0.1,
+        "Year": "2018",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "ISL",
+        "Value": 10.2,
+        "Year": "2018",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "ISL",
+        "Value": 13.1,
+        "Year": "2018",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "ISL",
+        "Value": 14.2,
+        "Year": "2018",
+        "Partner": "USA"
+    },
+    {
+        "Country": "ITA",
+        "Value": 8.2,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "ITA",
+        "Value": 13.4,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "ITA",
+        "Value": 30.0,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "ITA",
+        "Value": 100.9,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "JPN",
+        "Value": 261.7,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "JPN",
+        "Value": 191.5,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "JPN",
+        "Value": 875.0,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "JPN",
+        "Value": 2383.8,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "LTU",
+        "Value": 0.2,
+        "Year": "2018",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "LTU",
+        "Value": 21.8,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "LTU",
+        "Value": 1.7,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "LVA",
+        "Value": 1.1,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "LVA",
+        "Value": 62.7,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "LVA",
+        "Value": 2.2,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "NLD",
+        "Value": 171.2,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "NLD",
+        "Value": 266.0,
+        "Year": "2017",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "NLD",
+        "Value": 1379.4,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "NLD",
+        "Value": 1131.4,
+        "Year": "2017",
+        "Partner": "USA"
+    },
+    {
+        "Country": "NOR",
+        "Value": 683.5,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "NOR",
+        "Value": 1134.0,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "NOR",
+        "Value": 2259.5,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "POL",
+        "Value": 4.1,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "POL",
+        "Value": 8.6,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "POL",
+        "Value": 34.6,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "POL",
+        "Value": 42.4,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "PRT",
+        "Value": 105.2,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "PRT",
+        "Value": 26.9,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "SVK",
+        "Value": 0.3,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "SVK",
+        "Value": 0.7,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "SVK",
+        "Value": 1.3,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "SVK",
+        "Value": 3.2,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "SVN",
+        "Value": 1.1,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "SVN",
+        "Value": 0.6,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "SVN",
+        "Value": 2.8,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "SVN",
+        "Value": 9.6,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "SWE",
+        "Value": 53.0,
+        "Year": "2019",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "SWE",
+        "Value": 35.7,
+        "Year": "2019",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "SWE",
+        "Value": 493.4,
+        "Year": "2019",
+        "Partner": "GBR"
+    },
+    {
+        "Country": "SWE",
+        "Value": 188.3,
+        "Year": "2019",
+        "Partner": "USA"
+    },
+    {
+        "Country": "USA",
+        "Value": 58.0,
+        "Year": "2020",
+        "Partner": "AUS"
+    },
+    {
+        "Country": "USA",
+        "Value": 367.0,
+        "Year": "2020",
+        "Partner": "CAN"
+    },
+    {
+        "Country": "USA",
+        "Value": 248.0,
+        "Year": "2020",
+        "Partner": "GBR"
+    }
+]
