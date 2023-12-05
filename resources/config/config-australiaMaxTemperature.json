@@ -1,0 +1,48 @@
+{
+    "zoom": 4,
+    "mapCenter": {
+        "lat": -25,
+        "lng": 135
+    },
+    "tools": [
+        {
+            "type": "geovisto-tool-sidebar",
+            "id": "geovisto-tool-sidebar",
+            "enabled": true,
+            "tabs": [
+                {
+                    "tool": "geovisto-tool-layer-heat",
+                    "enabled": true,
+                    "name": "Heat",
+                    "icon": "<i class=\"fa fa-fire\"></i>",
+                    "checkButton": true
+                }
+            ]
+        },
+        {
+            "type": "geovisto-tool-settings",
+            "id": "geovisto-tool-settings",
+            "enabled": true
+        },
+        {
+            "type": "geovisto-tool-layer-heat",
+            "id": "geovisto-tool-layer-heat",
+            "enabled": true,
+            "layerName": "Heat layer",
+            "data": {
+                "latitude": "lat",
+                "longitude": "long",
+                "radius": 20,
+                "intensity": "temperature",
+                "gradient": "Default",
+                "blur": 23,
+                "zoom": "Normal"
+            }
+        },
+        {
+            "type": "geovisto-tool-layer-tiles",
+            "id": "geovisto-tool-layer-tiles",
+            "enabled": true
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "zoom": 7,
+    "mapCenter": {
+        "lat": 50.0385812,
+        "lng": 15.7791356
+    },
+    "tools": [
+        {
+            "type": "geovisto-tool-sidebar",
+            "id": "geovisto-tool-sidebar",
+            "enabled": true,
+            "tabs": [
+                {
+                    "tool": "geovisto-tool-layer-dot",
+                    "enabled": true,
+                    "name": "Dot layer settings",
+                    "icon": "<i class=\"fa fa-dot-circle-o\"></i>",
+                    "checkButton": true
+                }
+            ]
+        },
+        {
+            "type": "geovisto-tool-settings",
+            "id": "geovisto-tool-settings",
+            "enabled": true
+        },
+        {
+            "type": "geovisto-tool-filters",
+            "id": "geovisto-tool-filters",
+            "enabled": true,
+            "filterRules": []
+        },
+        {
+            "type": "geovisto-tool-themes",
+            "id": "geovisto-tool-themes",
+            "enabled": true,
+            "theme": "light1"
+        },
+        {
+            "type": "geovisto-tool-selection",
+            "id": "geovisto-tool-selection",
+            "enabled": true
+        },
+        {
+            "type": "geovisto-tool-layer-map",
+            "id": "geovisto-tool-layer-map",
+            "enabled": true,
+            "layerName": "Map layer"
+        },
+        {
+            "type": "geovisto-tool-layer-dot",
+            "id": "geovisto-tool-layer-dot",
+            "enabled": true,
+            "layerName": "Dot layer",
+            "data": {
+                "latitude": "lat",
+                "longitude": "long",
+                "category": "city",
+                "color": "#0000FF"
+            }
+        }
+    ]
+}

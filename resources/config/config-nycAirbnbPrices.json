@@ -1,0 +1,65 @@
+{
+    "zoom": 10,
+    "mapCenter": {
+      "lat": 40.71052,
+      "lng": -73.95149
+    },
+    "tools": [
+        {
+            "type": "geovisto-tool-sidebar",
+            "id": "geovisto-tool-sidebar",
+            "enabled": true,
+            "tabs": [
+            {
+                "enabled": true,
+                "name": "General settings",
+                "icon": "<i class=\"fa fa-gear\"></i>",
+                "checkButton": false,
+                "fragments": [
+                {
+                    "tool": "geovisto-tool-themes",
+                    "enabled": true
+                },
+                {
+                    "tool": "geovisto-tool-selection",
+                    "enabled": true
+                }
+                ]
+            },
+            {
+              "tool": "geovisto-tool-layer-heat",
+              "enabled": true,
+              "name": "Heat",
+              "icon": "<i class=\"fa fa-fire\"></i>",
+              "checkButton": true
+            }
+            ]
+        },
+        {
+            "type": "geovisto-tool-settings",
+            "id": "geovisto-tool-settings",
+            "enabled": true
+        },
+        {
+			"type": "geovisto-tool-layer-heat",
+			"id": "geovisto-tool-layer-heat",
+			"enabled": true,
+			"layerName": "Heat layer",
+			"data": {
+				"latitude": "lat",
+				"longitude": "long",
+				"radius": 9,
+				"intensity": "price",
+				"gradient": "Default",
+				"blur": 11,
+				"zoom": "Normal"
+			}
+		},
+        {
+            "type": "geovisto-tool-layer-tiles",
+            "id": "geovisto-tool-layer-tiles",
+            "enabled": true
+        }
+    ]
+}
+  
