@@ -41,12 +41,12 @@ def download_dataset(id, message, token):
 
     query_url: str = f"{ARCGIS_HUB}{API}/datasets/{id}?fields[datasets]=id,name,metadata"
 
-    print(query_url)
+    #print(query_url)
     response = requests.get(query_url)
     if response.status_code != 200:
         print(response)
         print(f"Id doesn't exist: {id}")
-        return False
+        return
 
     data = response.json()
 
@@ -60,7 +60,7 @@ def download_dataset(id, message, token):
     if response.status_code != 200:
         print(response)
         print(f"Couldn't download data with this id: {id}")
-        return False
+        return
 
 
     data = response.json()
@@ -93,8 +93,7 @@ def download_dataset(id, message, token):
 
     with open(f"./test/geo/{data['name']}_all.geojson", 'w') as f:
         json.dump(data, f, indent=2)
-
-    return True
+    return
 
 
 
@@ -207,7 +206,7 @@ def main():
 
     print(args)
 
-    """for testing"""
+    """for testing
     data_path = Path('./test/data')
     if data_path.exists():
         shutil.rmtree(data_path)
@@ -218,6 +217,7 @@ def main():
         shutil.rmtree(data_path)
     
     data_path.mkdir()
+    """
 
     if not args.message:
         message = f'{today}'
@@ -226,9 +226,9 @@ def main():
 
     if args.inputfile:
         specifics_file(file=args.inputfile, message=message, token=args.token)
-    elif args.id:
+    if args.id:
         search_download(id=args.id, message=message, token=args.token)
-    else:
+    if args.search_name or args.filters or args.aggs:
         filters = {}
         aggs = {}
         if args.filters:
