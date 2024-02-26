@@ -1,0 +1,23 @@
+[
+    {
+        "inId": 1,
+        "id": null,
+        "search_name": "water",
+        "amount": 1,
+        "filters": {
+            "type": "Feature Layer"
+
+        },
+        "aggs": {}
+    },
+    {
+        "inId": 2,
+        "id": 1232132,
+        "search_name": "water",
+        "amount": 5,
+        "filters": {},
+        "aggs": {
+            
+        }
+    }
+]
