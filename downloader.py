@@ -1,16 +1,13 @@
-from pathlib import Path, PurePath
-from zipfile import ZipFile
-import shutil
 import sys
 import urllib
 import requests
 import json
 import base64
-import subprocess
-import zlib
 import gzip
 import argparse
 from datetime import date
+import os.path
+from prettytable import PrettyTable
 
 ARCGIS_HUB = 'https://hub.arcgis.com'
 API = '/api/v3'
@@ -19,10 +16,29 @@ GITHUB_API = 'https://api.github.com/repos/avi278/avi278.github.io/contents/'
 
 
 
-def search_datasets(name, filters, agg):
+def choose_datasets(data):
+    
+    t = PrettyTable(['X', 'Name', 'Source'])
+    for i, x in enumerate(data['data'], start=1):
+        t.add_row([i, x['attributes']['name'], x['attributes']['source']])
+    print(t)
+
+    while True:
+        try:
+            chosen = [int(item) for item in input("Enter the list of chosen datasets (1 2 3): ").split()]    
+        except ValueError:
+            print('Wrong format')
+            continue
+        else:
+            break
+
+    return chosen
+
+
+def search_datasets(name: str, filters='', agg=''):
     """function for searching datasets"""
 
-    query_url: str = f"{ARCGIS_HUB}{API}/search?{name}&filter[openData]=true&filter[tags]=any(esri,boundaries)&{filters}&{agg}&fields[datasets]=id,name,owner"
+    query_url: str = f"{ARCGIS_HUB}{API}/search?{name}&filter[openData]=true&filter[tags]=any(esri,boundaries)&{filters}&{agg}&fields[datasets]=id,name,owner,description,source"
 
     print(query_url)
 
@@ -30,27 +46,26 @@ def search_datasets(name, filters, agg):
 
     if response.status_code != 200:
         print(response)
+        print(response.reason)
         return
 
     data = response.json()
     return data
 
 
-def download_dataset(id, message, token):
+def download_dataset(id, message='', token=''):
     """function for downloading and saving geojson data"""
 
     query_url: str = f"{ARCGIS_HUB}{API}/datasets/{id}?fields[datasets]=id,name,metadata"
 
-    #print(query_url)
     response = requests.get(query_url)
     if response.status_code != 200:
         print(response)
+        print(response.reason)
         print(f"Id doesn't exist: {id}")
         return
 
     data = response.json()
-
-    #print(data["data"]['attributes']['metadata'])
 
     query_url: str = f"{ARCGIS_HUB}/datasets/{id}.geojson"
     response = requests.get(query_url)
@@ -59,6 +74,7 @@ def download_dataset(id, message, token):
 
     if response.status_code != 200:
         print(response)
+        print(response.reason)
         print(f"Couldn't download data with this id: {id}")
         return
 
@@ -77,24 +93,13 @@ def download_dataset(id, message, token):
                                     #"properties": {"name": x['properties']['NAME']},
                                     "geometry": x['geometry']})
         
-    if token:
+    if not token == '':
+        print(token)
         github_api_upload(geo_list, f"test/geo/{data['name']}.json.gz", message, token)
         github_api_upload(data_list, f"test/data/{data['name']}.json.gz", message, token)
-    else:    
-        github_cmd_add(data_list, f"./test/data/{data['name']}.json.gz")
-        github_cmd_add(geo_list, f"./test/geo/{data['name']}.json.gz")
 
-    """for testing"""
-    with open(f"./test/data/{data['name']}.json", 'w') as f:
-        json.dump(data_list, f, indent=2)
 
-    with open(f"./test/geo/{data['name']}.geojson", 'w') as f:
-        json.dump(geo_list, f, indent=2)
-
-    with open(f"./test/geo/{data['name']}_all.geojson", 'w') as f:
-        json.dump(data, f, indent=2)
-    return
-
+    return data_list, geo_list
 
 
 def search_download(id=None, search_name=None, amount=None, filters=None, aggs=None, message=None, token=None):
@@ -112,17 +117,16 @@ def search_download(id=None, search_name=None, amount=None, filters=None, aggs=N
 
         data = search_datasets(search_name, filter_str, agg_str)
         
-        for i, x in enumerate(data['data'], start=1):
-            download_dataset(x['id'], message, token)                
-            if amount == i:
-                break
+        chosen = choose_datasets(data)            
+
+        for x in chosen:
+            if 0 <= (x-1) < len(data):
+                download_dataset(data['data'][x-1]['id'], message, token)
+
     else:
         download_dataset(id, message, token)
 
 
-    """commit after one specification"""
-    if not token:
-        github_cmd_commit(message)
 
 
 def specifics_file(file, message, token):
@@ -154,27 +158,9 @@ def github_api_upload(data, path, message, token):
 
     response = requests.put(url_data, data=github_data, headers=headers)
 
-    if response.status_code != 200:
-        print(response)
+    print(response)
+    if response.status_code != 200 and response.status_code != 201:
         print(response.reason)
-
-
-def github_cmd_add(data, name):
-    with open(name, 'wb') as f:
-        f.write(gzip.compress(json.dumps(data, indent=2).encode('utf-8')))
-
-    subprocess.run('echo "add"', shell = True, executable="/bin/bash")
-    subprocess.run('git status -s', shell = True, executable="/bin/bash")
-    subprocess.run(f'git add {name}', shell = True, executable="/bin/bash")
-
-
-def github_cmd_commit(message):
-    subprocess.run('echo "commit"', shell = True, executable="/bin/bash")
-    subprocess.run(f'git commit -m {message}', shell = True, executable="/bin/bash")
-    subprocess.run('git push', shell = True, executable="/bin/bash")
-
-
-
 
 
 
@@ -183,9 +169,7 @@ def github_cmd_commit(message):
 def main():
     today = date.today()
 
-
     parser = argparse.ArgumentParser(description='Script for dowloading datasets from ArcGIS Hub')
-    parser.add_argument('-t', '--token', help='user token for github')      
     parser.add_argument('-m', '--message', help='message for github commit')      
 
     group1 = parser.add_argument_group('First option', 'download multiple datasets with specifics from file')
@@ -200,24 +184,14 @@ def main():
     group3.add_argument('-f', '--filters', help='filters search setting', nargs='*')
     group3.add_argument('-ag', '--aggs', help='aggregation search setting', nargs='*')
 
-
-
     args = parser.parse_args()
 
-    print(args)
+    if not os.path.exists('token'):
+        print('Token file doesn`t exists')
+        return
 
-    """for testing
-    data_path = Path('./test/data')
-    if data_path.exists():
-        shutil.rmtree(data_path)
+    token = open('token').read()
     
-    data_path.mkdir()
-    data_path = Path('./test/geo')
-    if data_path.exists():
-        shutil.rmtree(data_path)
-    
-    data_path.mkdir()
-    """
 
     if not args.message:
         message = f'{today}'
@@ -225,9 +199,9 @@ def main():
         message = args.message
 
     if args.inputfile:
-        specifics_file(file=args.inputfile, message=message, token=args.token)
+        specifics_file(file=args.inputfile, message=message, token=token)
     if args.id:
-        search_download(id=args.id, message=message, token=args.token)
+        search_download(id=args.id, message=message, token=token)
     if args.search_name or args.filters or args.aggs:
         filters = {}
         aggs = {}
@@ -237,16 +211,7 @@ def main():
         if args.aggs:
             aggs = dict(e.split('=') for e in args.aggs)
 
-        search_download(search_name=args.search_name, amount=args.amount, filters=filters, aggs=aggs, message=message, token=args.token)
-
-    """
-    headers = {'Accept': 'application/vnd.github.raw+json', 'Authorization': 'Bearer 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', 'X-GitHub-Api-Version': '2022-11-28'}
-    url_data = f'{GITHUB_API}/test1.json.gz'
-    r = requests.get(url_data, headers=headers)
-
-    print(r)
-    print(gzip.decompress(r.content))
-    """
+        search_download(search_name=args.search_name, amount=args.amount, filters=filters, aggs=aggs, message=message, token=token)
 
 
 if __name__ == "__main__":
