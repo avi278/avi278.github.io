@@ -12,7 +12,33 @@ from prettytable import PrettyTable
 ARCGIS_HUB = 'https://hub.arcgis.com'
 API = '/api/v3'
 
-GITHUB_API = 'https://api.github.com/repos/avi278/avi278.github.io/contents/'
+GITHUB_API = 'https://api.github.com/repos/avi278/avi278.github.io'
+GITHUB_CONTENT = '/contents/'
+GITHUB_TREE = '/git/trees/'
+GITHUB_BRANCHES = '/branches/master'
+
+def get_github_files():
+    headers = {'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28'}
+    url = f'{GITHUB_API}{GITHUB_BRANCHES}'
+
+    response = requests.get(url, headers)
+    
+    url = f'{GITHUB_API}{GITHUB_TREE}{response.json()["commit"]["sha"]}?recursive=1'
+    response = requests.get(url, headers)
+
+    data = []
+    config = []
+    geo = []
+    for x in response.json()['tree']:
+        if x['type'] == 'blob' and  x['path'].startswith('resources'):
+            if x['path'].startswith('resources/config'):
+                config.append(x['path'].replace('resources/config/', ''))
+            if x['path'].startswith('resources/data'):
+                data.append(x['path'].replace('resources/data/', ''))
+            if x['path'].startswith('resources/geojson'):
+                geo.append(x['path'].replace('resources/geojson/', ''))
+
+    return config, data, geo
 
 
 
@@ -145,7 +171,7 @@ def github_api_upload(data, path, message, token):
     github_data_base64 = base64.b64encode(gzip.compress(json.dumps(data, indent=2).encode('utf-8'))).decode()
 
     headers = {'Accept': 'application/vnd.github+json', 'Authorization': f'token {token}', 'X-GitHub-Api-Version': '2022-11-28'}
-    url_data = f'{GITHUB_API}{path}'
+    url_data = f'{GITHUB_API}{GITHUB_CONTENT}{path}'
 
     response = requests.get(url_data)
 
@@ -212,7 +238,6 @@ def main():
             aggs = dict(e.split('=') for e in args.aggs)
 
         search_download(search_name=args.search_name, amount=args.amount, filters=filters, aggs=aggs, message=message, token=token)
-
 
 if __name__ == "__main__":
     main()

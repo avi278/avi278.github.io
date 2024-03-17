@@ -1,5 +1,5 @@
 from flask import Flask, jsonify
-from downloader import download_dataset, search_datasets
+from downloader import download_dataset, search_datasets, get_github_files
 import json
 
 
@@ -25,6 +25,11 @@ def search(name):
 def download(id):
     data, geo = download_dataset(id=id)
     return jsonify({'data': data, 'geo': geo}) 
+
+@app.route('/files', methods=['GET'])
+def files():
+    config, data, geo = get_github_files()
+    return jsonify({'data': data, 'geo': geo, 'config': config}) 
 
 if __name__ == "__main__":
     app.run(host='127.0.0.1', port=5000)
