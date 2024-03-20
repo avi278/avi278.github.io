@@ -18,6 +18,8 @@ GITHUB_TREE = '/git/trees/'
 GITHUB_BRANCHES = '/branches/master'
 
 def get_github_files():
+    """function will return names of geo, config and data files in resources"""
+
     headers = {'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28'}
     url = f'{GITHUB_API}{GITHUB_BRANCHES}'
 
@@ -43,7 +45,8 @@ def get_github_files():
 
 
 def choose_datasets(data):
-    
+    """user choose dataset/s to download"""
+
     t = PrettyTable(['X', 'Name', 'Source'])
     for i, x in enumerate(data['data'], start=1):
         t.add_row([i, x['attributes']['name'], x['attributes']['source']])
@@ -86,9 +89,9 @@ def download_dataset(id, message='', token=''):
 
     response = requests.get(query_url)
     if response.status_code != 200:
+        print(f"Id doesn't exist: {id}")
         print(response)
         print(response.reason)
-        print(f"Id doesn't exist: {id}")
         return
 
     data = response.json()
@@ -99,9 +102,9 @@ def download_dataset(id, message='', token=''):
     print(query_url)
 
     if response.status_code != 200:
+        print(f"Couldn't download data with this id: {id}")
         print(response)
         print(response.reason)
-        print(f"Couldn't download data with this id: {id}")
         return
 
 
@@ -168,6 +171,8 @@ def specifics_file(file, message, token):
 
 
 def github_api_upload(data, path, message, token):
+    """function for upload on github"""
+
     github_data_base64 = base64.b64encode(gzip.compress(json.dumps(data, indent=2).encode('utf-8'))).decode()
 
     headers = {'Accept': 'application/vnd.github+json', 'Authorization': f'token {token}', 'X-GitHub-Api-Version': '2022-11-28'}
@@ -186,6 +191,7 @@ def github_api_upload(data, path, message, token):
 
     print(response)
     if response.status_code != 200 and response.status_code != 201:
+        print(f"githuhb error")
         print(response.reason)
 
 

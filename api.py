@@ -1,7 +1,6 @@
 from flask import Flask, jsonify
 from downloader import download_dataset, search_datasets, get_github_files
-import json
-
+from flask_cors import CORS
 
 """
     My api, run on pythonAnywhere
@@ -9,6 +8,7 @@ import json
 
 
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route('/', methods = ['GET'])
@@ -32,4 +32,4 @@ def files():
     return jsonify({'data': data, 'geo': geo, 'config': config}) 
 
 if __name__ == "__main__":
-    app.run(host='127.0.0.1', port=5000)
+    app.run()
