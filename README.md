@@ -20,7 +20,7 @@ If you need generate token, you can do it [here](https://docs.github.com/en/ente
 ## Usage
 
 ```bash
-python downloader.py [-h] [-m MESSAGE] [-if INPUTFILE] [-id ID] [-sn SEARCH_NAME] [-a AMOUNT] [-f [FILTERS ...]] [-ag [AGGS ...]]
+python3 downloader.py [-h] [-m MESSAGE] [-if INPUTFILE] [-id ID] [-sn SEARCH_NAME] [-a AMOUNT] [-f [FILTERS ...]] [-ag [AGGS ...]]
 
 options:
   -h,  --help            show this help message and exit
