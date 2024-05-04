@@ -16,6 +16,7 @@ GITHUB_API = 'https://api.github.com/repos/avi278/avi278.github.io'
 GITHUB_CONTENT = '/contents/'
 GITHUB_TREE = '/git/trees/'
 GITHUB_BRANCHES = '/branches/master'
+GITHUB_BLOB = '/git/blobs/'
 
 def get_github_files():
     """function will return names of geo, config and data files in resources"""
@@ -42,7 +43,35 @@ def get_github_files():
 
     return config, data, geo
 
+def get_github_file(dir, subdir, file):
+    headers = {'Accept': 'application/vnd.github.v3.raw', 'X-GitHub-Api-Version': '2022-11-28', 'Content-Type': 'application/x-json-stream'}
+    url = f'{GITHUB_API}{GITHUB_CONTENT}{dir}/{subdir}/{file}'
 
+    response = requests.get(url, headers)
+    if response.status_code != 200:
+        return
+
+    data = json.loads(response.content)
+    content = data["content"]
+
+    # big unzip file 
+    if len(content) == 0:
+        url = f'{GITHUB_API}{GITHUB_BLOB}{data["sha"]}'
+        response = requests.get(url)
+        data = json.loads(response.content)
+        content = data["content"]
+    
+
+    decoded_data = base64.b64decode(content)
+    check = file.split('.')
+
+    # zip data
+    if check[len(check)-1] == 'gz':
+        decoded_data = gzip.decompress(decoded_data)
+        
+    decoded_data = json.loads(decoded_data.decode())
+
+    return decoded_data
 
 def choose_datasets(data):
     """user choose dataset/s to download"""
@@ -115,17 +144,18 @@ def download_dataset(id, message='', token=''):
         "features": []
     }
 
-    for x in data['features']:
-        data_list.append(x['properties'])
-        geo_list['features'].append({"type": x['type'], 
-                                    "id": x['properties']['OBJECTID'], 
-                                    #"properties": {"name": x['properties']['NAME']},
-                                    "geometry": x['geometry']})
-        
+    for i, x in enumerate(data['features']):
+        data_properties = x['properties']
+        data_properties['id'] = i
+        data_list.append(data_properties)
+        geo_list['features'].append({"type": x['type'],
+                                    "id": i,
+                                    "properties": x['properties'],
+                                    "geometry": x['geometry']})        
     if not token == '':
         print(token)
-        github_api_upload(geo_list, f"test/geo/{data['name']}.json.gz", message, token)
-        github_api_upload(data_list, f"test/data/{data['name']}.json.gz", message, token)
+        github_api_upload(geo_list, f"resources/geojson/{data['name']}.json.gz", message, token)
+        github_api_upload(data_list, f"resources/data/{data['name']}.json.gz", message, token)
 
 
     return data_list, geo_list
