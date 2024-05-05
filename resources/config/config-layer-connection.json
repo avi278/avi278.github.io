@@ -42,7 +42,7 @@
         },
         {
           "tool": "geovisto-tool-info",
-          "enabled": true,
+          "enabled": false,
           "name": "Info",
           "icon": "<i class=\"fa fa-info\"></i>",
           "checkButton": false
@@ -161,7 +161,7 @@
       "id": "geovisto-tool-legend",
       "enabled": true,
       "tools": [
-        "geovisto-tool-layer-choropleth"
+        "geovisto-tool-layer-connection"
       ]
     },
     {

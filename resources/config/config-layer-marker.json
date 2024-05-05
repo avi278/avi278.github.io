@@ -11,8 +11,7 @@
       "enabled": true,
       "tabs": [
         {
-          "tool": "geovisto-tool-settings",
-          "enabled": true,
+          "enabled": false,
           "name": "General settings",
           "icon": "<i class=\"fa fa-gear\"></i>",
           "checkButton": false,
@@ -29,24 +28,31 @@
         },
         {
           "tool": "geovisto-tool-filters",
-          "enabled": true,
+          "enabled": false,
           "name": "Filters",
           "icon": "<i class=\"fa fa-filter\"></i>",
           "checkButton": true
         },
         {
           "tool": "geovisto-tool-layer-map",
-          "enabled": true,
+          "enabled": false,
           "name": "Map layer settings",
           "icon": "<i class=\"fa fa-globe\"></i>",
           "checkButton": true
         },
         {
           "tool": "geovisto-tool-layer-choropleth",
-          "enabled": true,
+          "enabled": false,
           "name": "Choropleth layer settings",
           "icon": "<i class=\"fa fa-th-large\"></i>",
           "checkButton": true
+        },
+        {
+          "tool": "geovisto-tool-info",
+          "enabled": false,
+          "name": "Info",
+          "icon": "<i class=\"fa fa-info\"></i>",
+          "checkButton": false
         },
         {
           "tool": "geovisto-tool-layer-marker",
@@ -56,17 +62,24 @@
           "checkButton": true
         },
         {
+          "tool": "geovisto-tool-layer-connection",
+          "enabled": false,
+          "name": "Connection layer settings",
+          "icon": "<i class=\"fa fa-road\"></i>",
+          "checkButton": true
+        },
+        {
           "tool": "geovisto-tool-timeline",
-          "enabled": true,
+          "enabled": false,
           "name": "Timeline",
           "icon": "<i class=\"fa fa-clock-o\" />",
           "checkButton": true
         },
         {
-          "tool": "geovisto-tool-layer-connection",
-          "enabled": true,
-          "name": "Connection layer settings",
-          "icon": "<i class=\"fa fa-road\"></i>",
+          "tool": "geovisto-tool-layer-drawing",
+          "enabled": false,
+          "name": "GeoJSON creator",
+          "icon": "<i class=\"fa fa-pencil\"></i>",
           "checkButton": true
         }
       ]
@@ -100,14 +113,19 @@
       "layerName": "Map layer"
     },
     {
+      "type": "geovisto-tool-legend",
+      "id": "geovisto-tool-legend",
+      "enabled": true
+    },
+    {
       "type": "geovisto-tool-layer-choropleth",
       "id": "geovisto-tool-layer-choropleth",
-      "enabled": true,
+      "enabled": false,
       "layerName": "Choropleth layer",
       "data": {
-        "country": "to",
-        "value": "value",
-        "aggregation": "sum",
+        "country": "",
+        "value": "",
+        "aggregation": "",
         "scaling": "median",
         "range": 7,
         "customColor": true,
@@ -120,10 +138,14 @@
       "enabled": true,
       "layerName": "Marker layer",
       "data": {
-        "country": "",
-        "value": "",
-        "aggregation": "",
-        "category": ""
+        "geoData": "world centroids",
+        "geoId": "Country",
+        "value": "Value",
+        "aggregation": "sum",
+        "category": "Resource",
+        "unitsEnabled": true,
+        "units": "TJ",
+        "unitsDesc": "Terajoules"
       }
     },
     {
@@ -133,13 +155,22 @@
       "layerName": "Connection layer",
       "data": {
         "from": "",
-        "to": ""
+        "to": "",
+        "animateDirection": false
       }
+    },
+    {
+      "type": "geovisto-tool-legend",
+      "id": "geovisto-tool-legend",
+      "enabled": true,
+      "tools": [
+        "geovisto-tool-layer-marker"
+      ]
     },
     {
       "type": "geovisto-tool-timeline",
       "id": "geovisto-tool-timeline",
-      "enabled": true,
+      "enabled": false,
       "layerName": "Timeline",
       "data": {
         "timePath": "",
@@ -154,6 +185,12 @@
         "chartAggregationFn": ""
       },
       "stories": []
+    },
+    {
+      "type": "geovisto-tool-layer-drawing",
+      "id": "geovisto-tool-layer-drawing",
+      "enabled": false,
+      "layerName": "GeoJSON creator"
     }
   ]
 }

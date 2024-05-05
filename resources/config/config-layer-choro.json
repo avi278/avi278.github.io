@@ -14,7 +14,7 @@
           "enabled": false,
           "name": "General settings",
           "icon": "<i class=\"fa fa-gear\"></i>",
-          "checkButton": false,
+          "checkButton": true,
           "fragments": [
             {
               "tool": "geovisto-tool-themes",
@@ -28,7 +28,7 @@
         },
         {
           "tool": "geovisto-tool-info",
-          "enabled": true,
+          "enabled": false,
           "name": "Info",
           "icon": "<i class=\"fa fa-info\"></i>",
           "checkButton": false
@@ -38,7 +38,7 @@
           "enabled": false,
           "name": "Filters",
           "icon": "<i class=\"fa fa-filter\"></i>",
-          "checkButton": true
+          "checkButton": false
         },
         {
           "tool": "geovisto-tool-layer-map",
@@ -66,14 +66,14 @@
           "enabled": false,
           "name": "Connection layer settings",
           "icon": "<i class=\"fa fa-road\"></i>",
-          "checkButton": true
+          "checkButton": false
         },
         {
           "tool": "geovisto-tool-timeline",
           "enabled": false,
           "name": "Timeline",
           "icon": "<i class=\"fa fa-clock-o\" />",
-          "checkButton": true
+          "checkButton": false
         },
         {
           "tool": "geovisto-tool-layer-drawing",
@@ -92,8 +92,14 @@
     {
       "type": "geovisto-tool-filters",
       "id": "geovisto-tool-filters",
-      "enabled": true,
-      "filterRules": []
+      "enabled": false,
+      "filterRules": [
+        {
+          "domain": "Year",
+          "operation": "==",
+          "pattern": "2019"
+        }
+      ]
     },
     {
       "type": "geovisto-tool-themes",
@@ -104,7 +110,12 @@
     {
       "type": "geovisto-tool-selection",
       "id": "geovisto-tool-selection",
-      "enabled": true
+      "enabled": true,
+      "selection": {
+        "tool": "geovisto-tool-layer-choropleth",
+        "ids": [
+        ]
+      }    
     },
     {
       "type": "geovisto-tool-layer-map",
@@ -166,7 +177,7 @@
     {
       "type": "geovisto-tool-timeline",
       "id": "geovisto-tool-timeline",
-      "enabled": false,
+      "enabled": true,
       "layerName": "Timeline",
       "data": {
         "timePath": "",

@@ -1,0 +1,204 @@
+{
+    "zoom": 2,
+    "center": {
+      "lat": 50.064191736659104,
+      "lng": 0
+    },
+    "tools": [
+      {
+        "type": "geovisto-tool-sidebar",
+        "id": "geovisto-tool-sidebar",
+        "enabled": true,
+        "tabs": [
+          {
+            "enabled": false,
+            "name": "General settings",
+            "icon": "<i class=\"fa fa-gear\"></i>",
+            "checkButton": false,
+            "fragments": [
+              {
+                "tool": "geovisto-tool-themes",
+                "enabled": false
+              },
+              {
+                "tool": "geovisto-tool-selection",
+                "enabled": false
+              }
+            ]
+          },
+          {
+            "tool": "geovisto-tool-info",
+            "enabled": false,
+            "name": "Info",
+            "icon": "<i class=\"fa fa-info\"></i>",
+            "checkButton": false
+          },
+          {
+            "tool": "geovisto-tool-filters",
+            "enabled": true,
+            "name": "Filters",
+            "icon": "<i class=\"fa fa-filter\"></i>",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-layer-map",
+            "enabled": false,
+            "name": "Map layer settings",
+            "icon": "<i class=\"fa fa-globe\"></i>",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-layer-choropleth",
+            "enabled": true,
+            "name": "Choropleth layer settings",
+            "icon": "<i class=\"fa fa-th-large\"></i>",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-layer-marker",
+            "enabled": false,
+            "name": "Marker layer settings",
+            "icon": "<i class=\"fa fa-map-marker\"></i>",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-layer-connection",
+            "enabled": false,
+            "name": "Connection layer settings",
+            "icon": "<i class=\"fa fa-road\"></i>",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-timeline",
+            "enabled": false,
+            "name": "Timeline",
+            "icon": "<i class=\"fa fa-clock-o\" />",
+            "checkButton": true
+          },
+          {
+            "tool": "geovisto-tool-layer-drawing",
+            "enabled": false,
+            "name": "GeoJSON creator",
+            "icon": "<i class=\"fa fa-pencil\"></i>",
+            "checkButton": true
+          }
+        ]
+      },
+      {
+        "type": "geovisto-tool-settings",
+        "id": "geovisto-tool-settings",
+        "enabled": false
+      },
+      {
+        "type": "geovisto-tool-filters",
+        "id": "geovisto-tool-filters",
+        "enabled": true,
+        "filterRules": [
+          {
+            "domain": "Year",
+            "operation": "==",
+            "pattern": "2019"
+          }
+        ]
+      },
+      {
+        "type": "geovisto-tool-themes",
+        "id": "geovisto-tool-themes",
+        "enabled": false,
+        "theme": "light1"
+      },
+      {
+        "type": "geovisto-tool-selection",
+        "id": "geovisto-tool-selection",
+        "enabled": true,
+        "selection": {
+          "tool": "geovisto-tool-layer-choropleth",
+          "ids": [
+          ]
+        }    
+      },
+      {
+        "type": "geovisto-tool-layer-map",
+        "id": "geovisto-tool-layer-map",
+        "enabled": false,
+        "layerName": "Map layer"
+      },
+      {
+        "type": "geovisto-tool-layer-choropleth",
+        "id": "geovisto-tool-layer-choropleth",
+        "enabled": true,
+        "layerName": "Choropleth layer",
+        "data": {
+          "geoData": "world polygons",
+          "geoId": "Country",
+          "value": "Value",
+          "aggregation": "sum",
+          "scaling": "median",
+          "range": 7,
+          "customColor": true,
+          "color": "#041FEC",
+          "unitsEnabled": true,
+          "units": "$",
+          "unitsDesc": "US Dollars (Millions)",
+          "round": 1
+        }
+      },
+      {
+        "type": "geovisto-tool-layer-marker",
+        "id": "geovisto-tool-layer-marker",
+        "enabled": false,
+        "layerName": "Marker layer",
+        "data": {
+          "geoData": "Country",
+          "value": "Value",
+          "aggregation": "sum",
+          "category": "Resource"
+        }
+      },
+      {
+        "type": "geovisto-tool-layer-connection",
+        "id": "geovisto-tool-layer-connection",
+        "enabled": false,
+        "layerName": "Connection layer",
+        "data": {
+          "from": "",
+          "to": "",
+          "animateDirection": false
+        }
+      },
+      {
+        "type": "geovisto-tool-legend",
+        "id": "geovisto-tool-legend",
+        "enabled": false,
+        "tools": [
+          "geovisto-tool-layer-choropleth"
+        ]
+      },
+      {
+        "type": "geovisto-tool-timeline",
+        "id": "geovisto-tool-timeline",
+        "enabled": false,
+        "layerName": "Timeline",
+        "data": {
+          "timePath": "",
+          "stepTimeLength": 3000,
+          "transitionDuration": 2500,
+          "storyEnabled": false,
+          "story": "",
+          "realTimeEnabled": false,
+          "granularity": "",
+          "chartEnabled": false,
+          "chartValuePath": "",
+          "chartAggregationFn": ""
+        },
+        "stories": []
+      },
+      {
+        "type": "geovisto-tool-layer-drawing",
+        "id": "geovisto-tool-layer-drawing",
+        "enabled": false,
+        "layerName": "GeoJSON creator"
+      }
+    ]
+  }
+  
