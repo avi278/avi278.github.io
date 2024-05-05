@@ -39,8 +39,8 @@ def get_github_files():
                 config.append(x['path'].replace('resources/config/', ''))
             if x['path'].startswith('resources/data'):
                 data.append(x['path'].replace('resources/data/', ''))
-            if x['path'].startswith('resources/geojson'):
-                geo.append(x['path'].replace('resources/geojson/', ''))
+            if x['path'].startswith('resources/geo'):
+                geo.append(x['path'].replace('resources/geo/', ''))
 
     return config, data, geo
 
@@ -113,7 +113,7 @@ def search_datasets(name: str, filters='', agg=''):
 
 
 def download_dataset(id, message='', token=''):
-    """function for downloading and saving geojson data"""
+    """function for downloading and saving geo data"""
 
     query_url: str = f"{ARCGIS_HUB}{API}/datasets/{id}?fields[datasets]=id,name,metadata"
 
