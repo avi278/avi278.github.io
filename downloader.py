@@ -8,6 +8,7 @@ import argparse
 from datetime import date
 import os.path
 from prettytable import PrettyTable
+import signal
 
 ARCGIS_HUB = 'https://hub.arcgis.com'
 API = '/api/v3'
@@ -175,12 +176,12 @@ def search_download(id=None, search_name=None, amount=None, filters=None, aggs=N
         agg_str = '&'.join(agg_str)
 
         data = search_datasets(search_name, filter_str, agg_str)
-        
-        chosen = choose_datasets(data)            
 
-        for x in chosen:
-            if 0 <= (x-1) < len(data):
-                download_dataset(data['data'][x-1]['id'], message, token)
+        if data:
+            chosen = choose_datasets(data)            
+            for x in chosen:
+                if 0 <= (x-1) < len(data):
+                    download_dataset(data['data'][x-1]['id'], message, token)
 
     else:
         download_dataset(id, message, token)
@@ -225,10 +226,15 @@ def github_api_upload(data, path, message, token):
         print(response.reason)
 
 
+def signal_handler(sig, frame):
+    print('\nExit\n')
+    sys.exit(0)
+
 
 
 
 def main():
+    signal.signal(signal.SIGINT, signal_handler)
     today = date.today()
 
     parser = argparse.ArgumentParser(description='Script for dowloading datasets from ArcGIS Hub')
@@ -268,10 +274,18 @@ def main():
         filters = {}
         aggs = {}
         if args.filters:
-            filters = dict(e.split('=') for e in args.filters)
+            try: 
+                filters = dict(e.split('=') for e in args.filters)
+            except:
+                print('Bad format of filters')
+                return
 
         if args.aggs:
-            aggs = dict(e.split('=') for e in args.aggs)
+            try:
+                aggs = dict(e.split('=') for e in args.aggs)
+            except:
+                print('Bad format of aggs')
+                return
 
         search_download(search_name=args.search_name, amount=args.amount, filters=filters, aggs=aggs, message=message, token=token)
 
