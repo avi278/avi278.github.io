@@ -1,0 +1,57 @@
+{
+  "zoom":6,
+    "mapCenter": {
+      "lat": 50.0,
+      "lng": 10.0
+    },
+    "tools": [
+      {
+        "type": "geovisto-tool-sidebar",
+        "id": "geovisto-tool-sidebar",
+        "enabled": true,
+        "tabs": [
+          {
+              "tool": "geovisto-tool-layer-map",
+              "enabled": false,
+              "name": "Map layer settings",
+              "icon": "<i class=\"fa fa-globe\"></i>",
+              "checkButton": false
+          },
+          {
+              "tool": "geovisto-tool-geo-downloader",
+              "enabled": true,
+              "name": "Downloader tool",
+              "icon": "<i class=\"fa fa-cloud-download\" />",
+              "checkButton": true
+          }
+        ]
+      },
+      {
+        "type": "geovisto-tool-settings",
+        "id": "geovisto-tool-settings",
+        "enabled": true
+      },
+      {
+        "type": "geovisto-tool-themes",
+        "id": "geovisto-tool-themes",
+        "enabled": true
+      },
+      {
+        "type": "geovisto-tool-geo-downloader",
+        "id": "geovisto-tool-geo-downloader",
+        "enabled": true
+      },
+      {
+        "type": "geovisto-tool-layer-map",
+        "id": "geovisto-tool-layer-map",
+        "enabled": true,
+        "layerName": "Map layer"
+      },
+      {
+        "type": "geovisto-tool-layer-drawing",
+        "id": "geovisto-tool-layer-drawing",
+        "enabled": false,
+        "layerName": "GeoJSON creator"
+      }
+    ]
+  }

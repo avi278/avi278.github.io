@@ -1,0 +1,65 @@
+{
+    "zoom": 7,
+    "mapCenter": {
+        "lat": 50.0385812,
+        "lng": 15.7791356
+    },
+    "tools": [
+        {
+            "type": "geovisto-tool-sidebar",
+            "id": "geovisto-tool-sidebar",
+            "enabled": true,
+            "tabs": [
+                {
+                    "tool": "geovisto-tool-layer-spike",
+                    "enabled": true,
+                    "name": "Spike layer setting",
+                    "icon": "<i class=\"fa fa-arrow-up\"></i>",
+                    "checkButton": true
+                }
+            ]
+        },
+        {
+            "type": "geovisto-tool-settings",
+            "id": "geovisto-tool-settings",
+            "enabled": true
+        },
+        {
+            "type": "geovisto-tool-filters",
+            "id": "geovisto-tool-filters",
+            "enabled": true,
+            "filterRules": []
+        },
+        {
+            "type": "geovisto-tool-themes",
+            "id": "geovisto-tool-themes",
+            "enabled": true,
+            "theme": "light1"
+        },
+        {
+            "type": "geovisto-tool-selection",
+            "id": "geovisto-tool-selection",
+            "enabled": true
+        },
+        {
+            "type": "geovisto-tool-layer-map",
+            "id": "geovisto-tool-layer-map",
+            "enabled": true,
+            "layerName": "Map layer"
+        },
+        {
+            "type": "geovisto-tool-layer-spike",
+            "id": "geovisto-tool-layer-spike",
+            "enabled": true,
+            "layerName": "Spike layer",
+            "data": {
+                "latitude": "lat",
+                "longitude": "long",
+                "category": "data.category",
+                "value": "data.value",
+                "aggregation": "sum",
+                "color": "#00FF00"
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+[
+    {
+        "Country": "AUS",
+        "Value": 1380207.833,
+        "Year": "2019"
+    },
+    {
+        "Country": "AUT",
+        "Value": 433258.468,
+        "Year": "2020"
+    },
+    {
+        "Country": "BEL",
+        "Value": 521861.293,
+        "Year": "2020"
+    },
+    {
+        "Country": "CAN",
+        "Value": 1644037.286,
+        "Year": "2020"
+    },
+    {
+        "Country": "CHE",
+        "Value": 752205.237,
+        "Year": "2020"
+    },
+    {
+        "Country": "CHL",
+        "Value": 252940.021,
+        "Year": "2020"
+    },
+    {
+        "Country": "COL",
+        "Value": 323429.886,
+        "Year": "2019"
+    },
+    {
+        "Country": "CRI",
+        "Value": 63951.115,
+        "Year": "2019"
+    },
+    {
+        "Country": "CZE",
+        "Value": 245349.49,
+        "Year": "2020"
+    },
+    {
+        "Country": "DEU",
+        "Value": 3846413.929,
+        "Year": "2020"
+    },
+    {
+        "Country": "DNK",
+        "Value": 356084.868,
+        "Year": "2020"
+    },
+    {
+        "Country": "ESP",
+        "Value": 1281484.64,
+        "Year": "2020"
+    },
+    {
+        "Country": "EST",
+        "Value": 30650.285,
+        "Year": "2020"
+    },
+    {
+        "Country": "FIN",
+        "Value": 269751.313,
+        "Year": "2020"
+    },
+    {
+        "Country": "FRA",
+        "Value": 2630317.731,
+        "Year": "2020"
+    },
+    {
+        "Country": "GBR",
+        "Value": 2764197.654,
+        "Year": "2020"
+    },
+    {
+        "Country": "GRC",
+        "Value": 188835.202,
+        "Year": "2020"
+    },
+    {
+        "Country": "HUN",
+        "Value": 155808.436,
+        "Year": "2020"
+    },
+    {
+        "Country": "IRL",
+        "Value": 425888.951,
+        "Year": "2020"
+    },
+    {
+        "Country": "ISL",
+        "Value": 21718.076,
+        "Year": "2020"
+    },
+    {
+        "Country": "ISR",
+        "Value": 407100.737,
+        "Year": "2020"
+    },
+    {
+        "Country": "ITA",
+        "Value": 1888709.444,
+        "Year": "2020"
+    },
+    {
+        "Country": "JPN",
+        "Value": 5148781.948,
+        "Year": "2019"
+    },
+    {
+        "Country": "KOR",
+        "Value": 1637881.568,
+        "Year": "2020"
+    },
+    {
+        "Country": "LTU",
+        "Value": 56546.957,
+        "Year": "2020"
+    },
+    {
+        "Country": "LUX",
+        "Value": 73353.133,
+        "Year": "2020"
+    },
+    {
+        "Country": "LVA",
+        "Value": 33505.185,
+        "Year": "2020"
+    },
+    {
+        "Country": "MEX",
+        "Value": 1268868.332,
+        "Year": "2019"
+    },
+    {
+        "Country": "NLD",
+        "Value": 913865.396,
+        "Year": "2020"
+    },
+    {
+        "Country": "NOR",
+        "Value": 362381.513,
+        "Year": "2020"
+    },
+    {
+        "Country": "NZL",
+        "Value": 212891.048,
+        "Year": "2019"
+    },
+    {
+        "Country": "POL",
+        "Value": 596617.981,
+        "Year": "2020"
+    },
+    {
+        "Country": "PRT",
+        "Value": 228539.245,
+        "Year": "2020"
+    },
+    {
+        "Country": "SVK",
+        "Value": 105172.564,
+        "Year": "2020"
+    },
+    {
+        "Country": "SVN",
+        "Value": 53589.609,
+        "Year": "2020"
+    },
+    {
+        "Country": "SWE",
+        "Value": 541063.604,
+        "Year": "2020"
+    },
+    {
+        "Country": "TUR",
+        "Value": 720098.081,
+        "Year": "2020"
+    },
+    {
+        "Country": "USA",
+        "Value": 21433224.697,
+        "Year": "2019"
+    }
+]

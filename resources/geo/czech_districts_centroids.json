@@ -1,0 +1,852 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "CZ0100",
+            "properties": {
+                "name": "Praha-město"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.06418562105118, 14.484584506296187]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0311",
+            "properties": {
+                "name": "České Budějovice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.9983881, 14.4998725]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0312",
+            "properties": {
+                "name": "Český Krumlov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.7472831, 14.2883856]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0313",
+            "properties": {
+                "name": "Jindřichův Hradec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.1135811, 15.0217231]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0314",
+            "properties": {
+                "name": "Písek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.374909798758374, 14.209211354936878]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0315",
+            "properties": {
+                "name": "Prachatice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.9911797, 13.8736517]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0316",
+            "properties": {
+                "name": "Strakonice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.278854053078014, 13.909252378959765]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0317",
+            "properties": {
+                "name": "Tábor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.347711301137174, 14.689805085975012]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0641",
+            "properties": {
+                "name": "Blansko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.4511208465134, 16.637545295383628]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0644",
+            "properties": {
+                "name": "Břeclav"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.82188809004592, 16.789838555361406]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0642",
+            "properties": {
+                "name": "Brno-město"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.19523520903154, 16.59252670678227]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0643",
+            "properties": {
+                "name": "Brno-venkov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.1243669, 16.4334661]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0645",
+            "properties": {
+                "name": "Hodonín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.9540682044396, 17.225251359205988]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0646",
+            "properties": {
+                "name": "Vyškov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.245660146077476, 16.9822647014628]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0647",
+            "properties": {
+                "name": "Znojmo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.89109613320859, 16.068861825642603]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0411",
+            "properties": {
+                "name": "Cheb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.0713883, 12.4701483]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0412",
+            "properties": {
+                "name": "Karlovy Vary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.2192389, 13.0359442]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0413",
+            "properties": {
+                "name": "Sokolov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.2227536, 12.6239569]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0631",
+            "properties": {
+                "name": "Havlíčkův Brod"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.652027661872644, 15.548148704297622]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0632",
+            "properties": {
+                "name": "Jihlava"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.31174908897091, 15.562254624559708]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0633",
+            "properties": {
+                "name": "Pelhřimov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.41965323652146, 15.165288922414621]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0634",
+            "properties": {
+                "name": "Třebíč"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.138252736382945, 15.907045436590215]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0635",
+            "properties": {
+                "name": "Žďár nad Sázavou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.48001160597439, 16.099246472876693]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0521",
+            "properties": {
+                "name": "Hradec Králové"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.20610578509345, 15.69299328499947]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0522",
+            "properties": {
+                "name": "Jičín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.40809790824967, 15.410367943371432]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0523",
+            "properties": {
+                "name": "Náchod"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.4821217, 16.1697942]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0524",
+            "properties": {
+                "name": "Rychnov nad Kněžnou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.2086933, 16.2604314]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0525",
+            "properties": {
+                "name": "Trutnov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.5589581, 15.8154853]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0511",
+            "properties": {
+                "name": "Česká Lípa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.6565689, 14.6317083]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0512",
+            "properties": {
+                "name": "Jablonec nad Nisou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.7400744, 15.2441961]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0513",
+            "properties": {
+                "name": "Liberec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.7852442, 14.9860175]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0514",
+            "properties": {
+                "name": "Semily"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.5973294, 15.4254706]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0801",
+            "properties": {
+                "name": "Bruntál"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.0431747, 17.4359686]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0802",
+            "properties": {
+                "name": "Frýdek-Místek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.65155433116863, 18.64618642138393]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0803",
+            "properties": {
+                "name": "Karviná"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.8416706, 18.4769231]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0804",
+            "properties": {
+                "name": "Nový Jičín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.670960943683305, 18.022980970494892]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0805",
+            "properties": {
+                "name": "Opava"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.8947797, 17.8973944]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0806",
+            "properties": {
+                "name": "Ostrava"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.82542504583087, 18.24709251948767]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0711",
+            "properties": {
+                "name": "Jeseník"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.2543742, 17.1558172]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0712",
+            "properties": {
+                "name": "Olomouc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.665083223885865, 17.2637754844053]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0714",
+            "properties": {
+                "name": "Přerov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.49391281863293, 17.5537982297231]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0713",
+            "properties": {
+                "name": "Prostějov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.489685, 17.0487006]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0715",
+            "properties": {
+                "name": "Šumperk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.9796328, 16.9580633]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0531",
+            "properties": {
+                "name": "Chrudim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.83413244176795, 15.858156462068921]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0532",
+            "properties": {
+                "name": "Pardubice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.056805194624324, 15.740614395013601]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0533",
+            "properties": {
+                "name": "Svitavy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.73769546750354, 16.460210075479075]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0534",
+            "properties": {
+                "name": "Ústí nad Orlicí"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.983165, 16.4856511]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0321",
+            "properties": {
+                "name": "Domažlice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.4861167, 12.8848822]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0322",
+            "properties": {
+                "name": "Klatovy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.3002008, 13.4122258]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0323",
+            "properties": {
+                "name": "Plzeň-město"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.738678627825806, 13.374470152753494]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0324",
+            "properties": {
+                "name": "Plzeň-jih"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.58066877817466, 13.41453159817274]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0325",
+            "properties": {
+                "name": "Plzeň-sever"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.878635077487615, 13.294901105351663]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0326",
+            "properties": {
+                "name": "Rokycany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.78711976676151, 13.669190593149482]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0327",
+            "properties": {
+                "name": "Tachov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.7689936, 12.7722722]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0201",
+            "properties": {
+                "name": "Benešov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.69186071489679, 14.754556642204038]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0202",
+            "properties": {
+                "name": "Beroun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.892730410893755, 14.002509872118639]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0203",
+            "properties": {
+                "name": "Kladno"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.199934184551246, 14.092590719461453]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0204",
+            "properties": {
+                "name": "Kolín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.01491280227412, 15.053610007489322]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0205",
+            "properties": {
+                "name": "Kutná Hora"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.85448220570882, 15.214013888041187]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0206",
+            "properties": {
+                "name": "Mělník"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.331978362611785, 14.51099622706504]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0207",
+            "properties": {
+                "name": "Mladá Boleslav"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.37905349731445, 14.884005416385722]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0208",
+            "properties": {
+                "name": "Nymburk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.17567617242987, 15.096106902035805]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0209",
+            "properties": {
+                "name": "Praha-východ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.9442956, 14.6674139]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ020A",
+            "properties": {
+                "name": "Praha-západ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.8912408, 14.3652897]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ020B",
+            "properties": {
+                "name": "Příbram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.66977785874328, 14.105670803170703]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ020C",
+            "properties": {
+                "name": "Rakovník"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.08862135771017, 13.754250610886471]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0422",
+            "properties": {
+                "name": "Chomutov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.4226625, 13.3106022]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0421",
+            "properties": {
+                "name": "Děčín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.7887172, 14.304865]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0423",
+            "properties": {
+                "name": "Litoměřice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.461681743085165, 14.178305897875898]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0424",
+            "properties": {
+                "name": "Louny"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.28135854098464, 13.632310526358658]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0425",
+            "properties": {
+                "name": "Most"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.5310322, 13.6182194]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0426",
+            "properties": {
+                "name": "Teplice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.611275, 13.7994939]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0427",
+            "properties": {
+                "name": "Ústí nad Labem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50.6844206, 14.0302069]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0721",
+            "properties": {
+                "name": "Kroměříž"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.29266058921814, 17.46577716827393]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0722",
+            "properties": {
+                "name": "Uherské Hradiště"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.041768603854706, 17.57153669993083]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0723",
+            "properties": {
+                "name": "Vsetín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.39214093205059, 18.05861045394742]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CZ0724",
+            "properties": {
+                "name": "Zlín"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49.19103681305309, 17.78601365619236]
+            }
+        }
+    ]
+}
