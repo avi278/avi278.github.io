@@ -45,4 +45,5 @@ Domain [http://avi278.pythonanywhere.com/](http://avi278.pythonanywhere.com/)
 | GET /search/<string:name>      | return JSON with best matched datasets | /search/cities - search for best matched datasets by name cities |
 | GET /download/<string:id>      | return JSON with data and geometry    | /download/df827f607eb347d49a6cca071ce66d5e_11 - download dataset by id df827f607eb347d49a6cca071ce66d5e_11 |
 | GET /files      | return JSON with files in resources  | /files - return geo, config and data |
+| GET /file/<string:dir>/<string:subdir>/<string:file>      | return JSON with files in resources  | /files - return geo, config and data |
 
