@@ -114,7 +114,6 @@ def search_datasets(name: str, filters='', agg=''):
 
 def find_name (props):
     keys = list(props.keys())
-    print(keys)
     name = [s for s in keys if "name" in s.lower()]
     if name: 
         return props[name[0]]
