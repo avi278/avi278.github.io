@@ -112,11 +112,30 @@ def search_datasets(name: str, filters='', agg=''):
     return data
 
 
+def find_name (props):
+    keys = list(props.keys())
+    print(keys)
+    name = [s for s in keys if "name" in s.lower()]
+    if name: 
+        return props[name[0]]
+
+    title = [s for s in keys if "title" in s.lower()]
+    if title: 
+        return props[title[0]]
+
+    heading = [s for s in keys if "heading" in s.lower()]
+    if heading: 
+        return props[heading[0]]
+
+    return
+
+
 def download_dataset(id, message='', token=''):
     """function for downloading and saving geo data"""
 
     query_url: str = f"{ARCGIS_HUB}{API}/datasets/{id}?fields[datasets]=id,name,metadata"
 
+    print(query_url)
     response = requests.get(query_url)
     if response.status_code != 200:
         print(f"Id doesn't exist: {id}")
@@ -149,10 +168,14 @@ def download_dataset(id, message='', token=''):
         data_properties = x['properties']
         data_properties['id'] = i
         data_list.append(data_properties)
+        name = find_name(x['properties'])
+        if name == None: 
+            name = f'Object {i}'
         geo_list['features'].append({"type": x['type'],
                                     "id": i,
-                                    "properties": x['properties'],
-                                    "geometry": x['geometry']})        
+                                    "name": name,
+                                    "geometry": x['geometry']})     
+
     if not token == '':
         print(token)
         github_api_upload(geo_list, f"resources/geojson/{data['name']}.json.gz", message, token)
@@ -180,6 +203,7 @@ def search_download(id=None, search_name=None, amount=None, filters=None, aggs=N
         if data:
             chosen = choose_datasets(data)            
             for x in chosen:
+                print(x)
                 if 0 <= (x-1) < len(data):
                     download_dataset(data['data'][x-1]['id'], message, token)
 
