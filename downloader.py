@@ -177,7 +177,7 @@ def download_dataset(id, message='', token=''):
 
     if not token == '':
         print(token)
-        github_api_upload(geo_list, f"resources/geojson/{data['name']}.json.gz", message, token)
+        github_api_upload(geo_list, f"resources/geo/{data['name']}.json.gz", message, token)
         github_api_upload(data_list, f"resources/data/{data['name']}.json.gz", message, token)
 
 
@@ -202,8 +202,7 @@ def search_download(id=None, search_name=None, amount=None, filters=None, aggs=N
         if data:
             chosen = choose_datasets(data)            
             for x in chosen:
-                print(x)
-                if 0 <= (x-1) < len(data):
+                if 0 <= (x-1) < len(data["data"]):
                     download_dataset(data['data'][x-1]['id'], message, token)
 
     else:
@@ -248,6 +247,7 @@ def github_api_upload(data, path, message, token):
         print(f"githuhb error")
         print(response.reason)
 
+    print(response)
 
 def signal_handler(sig, frame):
     print('\nExit\n')
