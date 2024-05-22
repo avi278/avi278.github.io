@@ -97,7 +97,7 @@ def choose_datasets(data):
 def search_datasets(name: str, filters='', agg=''):
     """function for searching datasets"""
 
-    query_url: str = f"{ARCGIS_HUB}{API}/search?{name}&filter[openData]=true&filter[tags]=any(esri,boundaries)&{filters}&{agg}&fields[datasets]=id,name,owner,description,source"
+    query_url: str = f"{ARCGIS_HUB}{API}/search?{name}&filter[openData]=true&filter[tags]=any(esri,boundaries)&filter[type]=any(feature layer)&{filters}&{agg}&fields[datasets]=id,name,owner,description,source"
 
     print(query_url)
 
@@ -165,13 +165,13 @@ def download_dataset(id, message='', token=''):
 
     for i, x in enumerate(data['features']):
         data_properties = x['properties']
-        data_properties['id'] = i
+        data_properties['id'] = str(i)
         data_list.append(data_properties)
         name = find_name(x['properties'])
         if name == None: 
             name = f'Object {i}'
         geo_list['features'].append({"type": x['type'],
-                                    "id": i,
+                                    "id": str(i),
                                     "name": name,
                                     "geometry": x['geometry']})     
 
